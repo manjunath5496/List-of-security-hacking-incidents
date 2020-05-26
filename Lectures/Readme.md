@@ -2,7 +2,7 @@
 <li><a href="#course1">Networks</a></li>
 <li><a href="#course2">Introduction to Mathematical Programming</a></li>
 <li><a href="#course3">Nonlinear Programming</a></li>
-<li><a href="#course4">Effective Programming in C and C++</a></li>
+<li><a href="#course4">Game Theory with Engineering Applications</a></li>
 <li><a href="#course5">Software Construction</a></li>
 <li><a href="#course6">Elements of Software Construction</a></li>
 <li><a href="#course7">Introduction to Computer Science and Programming in Python</a></li>
@@ -262,4 +262,111 @@
 </table>
 </br>
 
+<h2 id="course4">Game Theory with Engineering Applications</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td>(<a href="MIT6_254S10_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Strategic form games</td>
+<td>(<a href="MIT6_254S10_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Strategic form games: solution concepts</td>
+<td>(<a href="MIT6_254S10_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Strategic form games: solution concepts</p>
+<p>Correlated rationalizability</p>
+</td>
+<td>
+<p>(<a href="MIT6_254S10_lec04.pdf">PDF</a>)</p>
+<p>(<a href="MIT6_254S10_lec04b.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Existence of a Nash equilibrium</td>
+<td>(<a href="MIT6_254S10_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Continuous and discontinuous games</td>
+<td>
+<p>(<a href="MIT6_254S10_lec06.pdf">PDF</a>)</p>
+<p>(<a href="MIT6_254S10_lec06b.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Supermodular games</td>
+<td>(<a href="MIT6_254S10_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Supermodular and potential games</td>
+<td>(<a href="MIT6_254S10_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Computation of Nash equilibrium in finite games</td>
+<td>(<a href="MIT6_254S10_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Evolution and learning in games</td>
+<td>(<a href="MIT6_254S10_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Learning in games</td>
+<td>(<a href="MIT6_254S10_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Extensive form games I</td>
+<td>(<a href="MIT6_254S10_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Extensive form games II</td>
+<td>(<a href="MIT6_254S10_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Nash bargaining solution</td>
+<td>(<a href="MIT6_254S10_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Repeated games I</td>
+<td>(<a href="MIT6_254S10_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Repeated games II</td>
+<td>(<a href="MIT6_254S10_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Games with incomplete information: Bayesian Nash equilibria</td>
+<td>(<a href="MIT6_254S10_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Games with incomplete information: Bayesian Nash equilibria and perfect Bayesian equilibria</td>
+<td>(<a href="MIT6_254S10_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Mechanism design I</td>
+<td>(<a href="MIT6_254S10_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Mechanism design II</td>
+<td>(<a href="MIT6_254S10_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Social choice and voting theory</td>
+<td>(<a href="MIT6_254S10_lec21.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
