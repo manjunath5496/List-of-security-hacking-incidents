@@ -13,7 +13,7 @@
 <li><a href="#course12">Database Systems</a></li>
 <li><a href="#course13">Fundamentals of Program Analysis</a></li>
 <li><a href="#course14">Computer System Architecture</a></li>
-<li><a href="#course15">Design and Analysis of Algorithms</a></li>
+<li><a href="#course15">Distributed Computer Systems Engineering</a></li>
 <li><a href="#course16">Information and Entropy</a></li>
 <li><a href="#course17">Introduction to MATLAB</a></li>
 <li><a href="#course18">Great Ideas in Theoretical Computer Science</a></li>
@@ -1668,9 +1668,125 @@
 
 </br>
 
+<h2 id="course15">Distributed Computer Systems Engineering</h2>
 
 
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">HANDOUTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction and O/S review (<a href="lec1.pdf">PDF</a>)</td>
+<td>
+<p>syscall.c (<a href="syscall.c">C</a>)</p>
+<p>webserver.c (<a href="webserver.c">C</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>I/O concurrency (<a href="lec2_concurrency.pdf">PDF 1</a>)</p>
+<p>Event-driven programming (<a href="lec2_events.pdf">PDF 2</a>)</p>
+</td>
+<td>
+<p>events.c (<a href="events.c">C</a>)</p>
+<p>webclient.c (<a href="webclient.c">C</a>)</p>
+<p>webclient_libasync.c (<a href="webclient_libasync.c">C</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Event-driven programming (cont.) (<a href="lec3_events.pdf">PDF</a>)</td>
+<td>arpc.c (<a href="arpc.c">C</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Network file system (<a href="lec4_nfs.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>RPC transparency (<a href="lec5_rpc.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Crash recovery (<a href="lec6_crash.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Logging (<a href="lec7_logging.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Cache consistency and locking (<a href="lec8_cache.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Memory consistency (<a href="lec9_memory.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>First project conferences</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Memory consistency (cont.) (<a href="lec11_memory.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Vector timestamps and version vectors (<a href="lec12_vector.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Two-phase commit (<a href="lec13_twophase.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Paxos (<a href="lec14_paxos.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Viewstamped replication (<a href="lec15_viewstamp.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Harp (<a href="lec16_harp.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Second project conferences</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Frangipani (<a href="lec18_frangipani.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Scalable lookup (<a href="lec19_scalable.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Wide-area storage</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Hacking day (no class)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Project demonstrations</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Content distribution</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Distributed computing</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
