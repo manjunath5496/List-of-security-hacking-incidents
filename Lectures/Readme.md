@@ -7,7 +7,7 @@
 <li><a href="#course6">Information Theory</a></li>
 <li><a href="#course7">Foundations of Algorithms and Computational Techniques in Systems Biology</a></li>
 <li><a href="#course8">Machine Vision</a></li>
-<li><a href="#course9">Introduction to Algorithms</a></li>
+<li><a href="#course9">Foundations of Computational and Systems Biology</a></li>
 <li><a href="#course10">Artificial Intelligence</a></li>
 <li><a href="#course11">Computer Language Engineering</a></li>
 <li><a href="#course12">Probabilistic Systems Analysis and Applied Probability</a></li>
@@ -991,3 +991,98 @@
 </tbody>
 </table>
 </br>
+<h2 id="course9">Foundations of Computational and Systems Biology </h2>
+
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT7_91JS14_Lecture1.pdf">Course Introduction: History of Computational Biology; Overview of the Course; Course Policies and Mechanics; DNA Sequencing Technologies (PDF - 5.0MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Genomic Analysis</strong></td>
+</tr>
+<tr class="row">
+<td><a href="MIT7_91JS14_Lecture2.pdf">Local Alignment (BLAST) and Statistics (PDF - 2.0MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT7_91JS14_Lecture3.pdf">Global Alignment of Protein Sequences (NW, SW, PAM, BLOSUM) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT7_91JS14_Lecture4.pdf">Comparative Genomic Analysis of Gene Regulation (PDF - 2.9MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Genomic Analysis&mdash;Next Gen Sequencing</strong></td>
+</tr>
+<tr class="row">
+<td><a href="MIT7_91JS14_Lecture5.pdf">Library Complexity and Short Read Alignment (Mapping) (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT7_91JS14_Lecture6.pdf">Genome Assembly (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT7_91JS14_Lecture7.pdf">ChIP-seq Analysis; DNA-protein Interactions (PDF - 2.0MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT7_91JS14_Lecture8.pdf">RNA-sequence Analysis: Expression, Isoforms (PDF - 2.9MB)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Modeling Biological Function</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT7_91JS14_Lecture9.pdf">Modeling and Discovery of Sequence Motifs (Gibbs Sampler, Alternatives) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT7_91JS14_Lecture10.pdf">Markov and Hidden Markov Models of Genomic and Protein Features (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT7_91JS14_Lecture11.pdf">RNA Secondary Structure&ndash;Biological Functions and Prediction (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Proteomics</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT7_91JS14_Lecture12.pdf">Introduction to Protein Structure; Structure Comparison and Classification (PDF - 3.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT7_91JS14_Lecture13.pdf">Predicting Protein Structure (PDF - 3.4MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT7_91JS14_Lecture14.pdf">Predicting Protein Interactions (PDF - 4.7MB)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Regulatory Networks</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT7_91JS14_Lecture15.pdf">Gene Regulatory Networks (PDF - 6.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT7_91JS14_Lecture16.pdf">Protein Interaction Networks (PDF - 7.6MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT7_91JS14_Lecture17.pdf">Logic Modeling of Cell Signaling Networks (PDF - 3.1MB)</a>&nbsp;Guest Lecture:&nbsp;<a href="http://web.mit.edu/dallab/index.html">Doug Lauffenburger</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT7_91JS14_Lecture18.pdf">Analysis of Chromatin Structure (PDF - 3.8MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Computational Genetics</strong></td>
+</tr>
+<tr class="row">
+<td><a href="MIT7_91JS14_Lecture19.pdf">Discovering Quantitative Trait Loci (QTLs) (PDF - 2.8MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT7_91JS14_Lecture20.pdf">Human Genetics, SNPs, and Genome Wide Associate Studies (PDF - 3.3MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
