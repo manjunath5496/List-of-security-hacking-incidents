@@ -3421,3 +3421,56 @@
 </tbody>
 </table>
 </br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Midterms</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Fall 2006</td>
+<td>(<a href="3/midterm_f06soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Fall 2004 (<a href="3/midterm_f04.pdf">PDF</a>)</td>
+<td>(<a href="3/midterm_f04soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fall 2003 (<a href="3/midterm_f03.pdf">PDF</a>)</td>
+<td>(<a href="3/midterm_f03soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Fall 2002 (<a href="3/midterm_f02.pdf">PDF</a>)</td>
+<td>(<a href="3/midterm_f02soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fall 2001 (<a href="3/midterm_f01.pdf">PDF</a>)</td>
+<td>(<a href="3/midterm_f01soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Finals</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Fall 2004 (<a href="3/final_f04.pdf">PDF</a>)</td>
+<td>(<a href="3/final_f04soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Fall 2003 (<a href="3/final_f03.pdf">PDF</a>)</td>
+<td>(<a href="3/final_f03soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fall 2002 (<a href="3/final_f02.pdf">PDF</a>)</td>
+<td>(<a href="3/final_f02soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Fall 2001 (<a href="3/final_f01.pdf">PDF</a>)</td>
+<td>(<a href="3/final_f01soln.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
