@@ -10,7 +10,7 @@
 <li><a href="#course9">Foundations of Computational and Systems Biology</a></li>
 <li><a href="#course10">Computational Cognitive Science</a></li>
 <li><a href="#course11">User Interface Design and Implementation</a></li>
-<li><a href="#course12">Probabilistic Systems Analysis and Applied Probability</a></li>
+<li><a href="#course12">Database Systems</a></li>
 <li><a href="#course13">Mathematics for Computer Science</a></li>
 <li><a href="#course14">Automata, Computability, and Complexity</a></li>
 <li><a href="#course15">Design and Analysis of Algorithms</a></li>
@@ -1330,4 +1330,108 @@
 </table>
 
 </br>
+<h2 id="course12">Database Systems</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction (CC)</td>
+<td>(<a href="MIT6_830F10_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The relational model (MS)</td>
+<td>(<a href="MIT6_830F10_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Schema design (MS)</td>
+<td>(<a href="MIT6_830F10_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to database internals (CC)</td>
+<td>(<a href="MIT6_830F10_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Database operators and query processing (CC)</td>
+<td>(<a href="MIT6_830F10_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Indexing and access methods (CC)</td>
+<td>(<a href="MIT6_830F10_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Buffer pool design and memory management (CC)</td>
+<td>(<a href="MIT6_830F10_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Join algorithms (CC)</td>
+<td>(<a href="MIT6_830F10_lec07b.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Query optimization (CC)</td>
+<td>
+<p>(<a href="MIT6_830F10_lec09.pdf">PDF</a>)</p>
+<p>Selinger optimizer&nbsp;<span class="nobr">(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_830F10_lec09_selinger.pdf">PDF</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Transactions and locking (MS)</td>
+<td>(<a href="MIT6_830F10_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Optimistic concurrency control (MS)</td>
+<td>(<a href="MIT6_830F10_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Recovery (MS)</td>
+<td>(<a href="MIT6_830F10_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Recovery (MS)</td>
+<td>(<a href="MIT6_830F10_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Degrees of consistency (MS)</td>
+<td>(<a href="MIT6_830F10_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>C-store</p>
+<p>Guest lecture: Sam Madden, MIT CSAIL</p>
+</td>
+<td>(<a href="MIT6_830F10_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Distributed transactions (CC)</td>
+<td>(<a href="MIT6_830F10_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Parallel databases (CC)</td>
+<td>(<a href="MIT6_830F10_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Scientific databases (MS)</td>
+<td>(<a href="MIT6_830F10_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>NOSQL (CC)</td>
+<td>(<a href="MIT6_830F10_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>ORM, DryadLINQ (CC)</td>
+<td>
+<p>ORM (<a href="MIT6_830F10_lec20.pdf">PDF</a>)</p>
+<p>DryadLINQ (<a href="MIT6_830F10_lec20b.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
