@@ -27,7 +27,7 @@
 <li><a href="#course26">Advanced Data Structures</a></li>
 <li><a href="#course27">Geometric Folding Algorithms: Linkages, Origami, Polyhedra</a></li>
 <li><a href="#course28">Essential Coding Theory</a></li> 
- <li><a href="#course29">A Gentle Introduction to Programming Using Python</a></li> 
+ <li><a href="#course29">Algorithmic Lower Bounds: Fun with Hardness Proofs</a></li> 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Networks</h2>
@@ -3152,5 +3152,108 @@
 </table>
 
 </br>
+<h2 id="course29">Algorithmic Lower Bounds: Fun with Hardness Proofs</h2>
 
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+<th scope="col">SCRIBE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L01.pdf">Introduction (PDF - 6.7MB)</a></td>
+<td><a href="MIT6_890F14_Lec1.pdf">Lecture 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L02.pdf">3-partition I (PDF - 6.8MB)</a></td>
+<td><a href="MIT6_890F14_Lec2.pdf">Lecture 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L03.pdf">3-partition II, 2&ndash;partition (PDF - 6.5MB)</a></td>
+<td><a href="MIT6_890F14_Lec3.pdf">Lecture 3 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L04.pdf">SAT (Satisfiability) (PDF - 4.7MB)</a></td>
+<td><a href="MIT6_890F14_Lec4.pdf">Lecture 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L05.pdf">SAT Reductions (PDF - 3.6MB)</a></td>
+<td><a href="MIT6_890F14_Lec5.pdf">Lecture 5 (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L06.pdf">Circuit SAT (PDF - 3.4MB)</a></td>
+<td><a href="MIT6_890F14_Lec6.pdf">Lecture 6 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L07.pdf">Planar SAT (PDF - 3.9MB)</a></td>
+<td><a href="MIT6_890F14_Lec7.pdf">Lecture 7 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L08.pdf">Hamiltonicity (PDF - 5.1MB)</a></td>
+<td><a href="MIT6_890F14_Lec8.pdf">Lecture 8 (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L09.pdf">Graph Problems (PDF - 5.5MB)</a></td>
+<td><a href="MIT6_890F14_Lec9.pdf">Lecture 9 (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L10.pdf">Inapproximability Introduction (PDF - 7.4MB)</a></td>
+<td><a href="MIT6_890F14_Lec10.pdf">Lecture 10 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L11.pdf">Inapproximability Examples (PDF - 6.5MB)</a></td>
+<td><a href="MIT6_890F14_Lec11.pdf">Lecture 11 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L12.pdf">Gap Inapproximability (PDF - 6.3MB)</a></td>
+<td><a href="MIT6_890F14_Lec12.pdf">Lecture 12 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L13.pdf">Parameterized Complexity I: W Hierarchy (PDF - 6.2MB)</a></td>
+<td><a href="MIT6_890F14_Lec13.pdf">Lecture 13 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L14.pdf">Parameterized Complexity II: ETH &amp; Planar (PDF - 6.1MB)</a></td>
+<td><a href="MIT6_890F14_Lec14.pdf">Lecture 14 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L15.pdf">P and ASP (PDF - 6.8MB)</a></td>
+<td><a href="MIT6_890F14_Lec15.pdf">Lecture 15 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L16.pdf">NP &amp; PSPACE Video Games (PDF - 3.3MB)</a></td>
+<td><a href="MIT6_890F14_Lec16.pdf">Lecture 16 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L17.pdf">Nondeterministic Constraint Logic (PDF - 6.4MB)</a></td>
+<td><a href="MIT6_890F14_Lec17.pdf">Lecture 17 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L18.pdf">0- and 2&ndash;player Games (PDF - 5.9MB)</a></td>
+<td><a href="MIT6_890F14_Lec18.pdf">Lecture 18 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L19.pdf">More Games (PDF - 6.9MB)</a></td>
+<td><a href="MIT6_890F14_Lec19.pdf">Lecture 19 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L20.pdf">Undecidability &amp; P-completeness (PDF - 6.1MB)</a></td>
+<td><a href="MIT6_890F14_Lec20.pdf">Lecture 20 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L21.pdf">3SUM &amp; APSP (PDF - 6.2MB)</a></td>
+<td><a href="MIT6_890F14_Lec21.pdf">Lecture 21 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L22.pdf">PPAD (guest lecture by Constantinos Daskalakis) (PDF - 9.2MB)</a></td>
+<td><a href="MIT6_890F14_Lec22.pdf">Lecture 22 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_890F14_L23.pdf">PPAD Reductions (guest lecture by Constantinos Daskalakis) (PDF - 8.4MB)</a></td>
+<td><a href="MIT6_890F14_Lec23.pdf">Lecture 23 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
