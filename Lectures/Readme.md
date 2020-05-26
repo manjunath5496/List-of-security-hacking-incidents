@@ -28,7 +28,8 @@
 <li><a href="#course27">Geometric Folding Algorithms: Linkages, Origami, Polyhedra</a></li>
 <li><a href="#course28">Essential Coding Theory</a></li> 
  <li><a href="#course29">Algorithmic Lower Bounds: Fun with Hardness Proofs</a></li> 
-  <li><a href="#course30">Machine Learning</a></li> 
+  <li><a href="#course30">Machine Learning</a></li>
+   <li><a href="#course31">Randomized Algorithms</a></li> 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Networks</h2>
@@ -3474,3 +3475,96 @@
 </tbody>
 </table>
 </br>
+<h2 id="course31">Randomized Algorithms</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction to Randomized Algorithms (<a href="3/n1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Min-Cut, Complexity Theory, Game Tree Evaluation (<a href="3/n2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Adelman's Theorem, Game Theory, Lower Bounds (<a href="3/n3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Coupon Collecting, Stable Marriage, Markov Inequality (<a href="3/n4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Chebyshev, Two Point Sampling, Chernoff (<a href="3/n5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Median Finding, Routing (<a href="3/n6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Probabilistic Method, Expanders, Wiring, MAX SAT (<a href="3/n7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Method of Conditional Probabilities and Expectations, Fingerprinting (<a href="3/n8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Hashing, Perfect Hash Families, Freivald's Technique (<a href="3/n9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fingerprints by Polynomials, Perfect Matching, Hashing (<a href="3/n10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Shortest Paths (<a href="3/n11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Parallel Algorithms (<a href="3/n12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Maximal Independent Sets (<a href="3/n13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Minimum Spanning Trees (<a href="3/n14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Polling, Minimum Cut, Transitive Closure (<a href="3/n15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Estimating Min-Cut Size (<a href="3/n16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Linear Programming (<a href="3/n17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>DNF Counting (<a href="3/n18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Markov Chains (<a href="3/n19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>UTS, Eigenvalue Analysis, Expanders (<a href="3/n20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Expander based Pseudo-Random Generator (<a href="3/n21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sampling with Markov Chains, Coupling (<a href="3/n22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Computational Geometry (<a href="3/n23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Randomized Incremental Construction (<a href="3/n24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Trapezoidal Decomposition, Treaps (<a href="3/n25.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
