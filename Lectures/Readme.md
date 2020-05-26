@@ -1484,7 +1484,7 @@
 <td><a href="MIT6_820F15_L05.pdf">Introduction to Simple Types (PDF)</a><br /><a href="MIT6_820F15_L05_CoqIntro.v">Coq Examples (V)</a></td>
 </tr>
 <tr class="alt-row">
-<td><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_820F15_L06.pdf">Hindley-Milner Type Inference and Polymorphic Types (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_820F15_L06.pdf">Hindley-Milner Type Inference and Polymorphic Types (PDF)</a></td>
 </tr>
 <tr class="row">
 <td><a href="MIT6_820F15_L07.pdf">Algebraic Data Types &amp; Their Ingredients: Product, Sum, and Recursive Types (PDF)</a></td>
@@ -1520,7 +1520,7 @@
 <td><a href="MIT6_820F15_L15.pdf">Separation Logic (PDF)</a></td>
 </tr>
 <tr class="alt-row">
-<td><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_820F15_L16.pdf">Axiomatic Semantics for Concurrency: Rely-Guarantee &amp; Concurrent Separation Logic (PDF)</a></td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_820F15_L16.pdf">Axiomatic Semantics for Concurrency: Rely-Guarantee &amp; Concurrent Separation Logic (PDF)</a></td>
 </tr>
 <tr class="row">
 <td colspan="3"><strong>Unit 5: Abstract Interpretation</strong></td>
@@ -1560,6 +1560,7 @@
 </tr>
 </tbody>
 </table>
+
 
 </br>
 
