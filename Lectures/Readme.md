@@ -2927,4 +2927,54 @@
 </table>
 </br>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM&nbsp;SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="2/MIT6_851S12_ps1.pdf">Problem Set 1&mdash;Due Lecture 3 (PDF)</a></td>
+<td><a href="2/MIT6_851S12_ps1sol.pdf">Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_851S12_ps2.pdf">Problem Set 2&mdash;Due Lecture 5 (PDF)</a></td>
+<td><a href="2/MIT6_851S12_ps2sol.pdf">Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_851S12_ps3.pdf">Problem Set 3&mdash;Due Lecture 7 (PDF)</a></td>
+<td><a href="2/MIT6_851S12_ps3sol.pdf">Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_851S12_ps4.pdf">Problem Set 4&mdash;Due Lecture 9 (PDF)</a></td>
+<td><a href="2/MIT6_851S12_ps4sol.pdf">Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_851S12_ps5.pdf">Problem Set 5&mdash;Due Lecture 11 (PDF)</a></td>
+<td><a href="2/MIT6_851S12_ps5sol.pdf">Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_851S12_ps6.pdf">Problem Set 6&mdash;Due Lecture 13 (PDF)</a></td>
+<td><a href="2/MIT6_851S12_ps6sol.pdf">Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_851S12_ps7.pdf">Problem Set 7&mdash;Due Lecture 15 (PDF)</a></td>
+<td><a href="2/MIT6_851S12_ps7sol.pdf">Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_851S12_ps8.pdf">Problem Set 8&mdash;Due Lecture 16 (PDF)</a></td>
+<td><a href="2/MIT6_851S12_ps8sol.pdf">Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_851S12_ps9.pdf">Problem Set 9&mdash;Due Lecture 18 (PDF)</a></td>
+<td><a href="2/MIT6_851S12_ps9sol.pdf">Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_851S12_ps10.pdf">Problem Set 10&mdash;Due Lecture 20 (PDF)</a></td>
+<td><a href="2/MIT6_851S12_ps10sol.pdf">Solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
