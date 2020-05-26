@@ -17,7 +17,7 @@
 <li><a href="#course16">Techniques in Artificial Intelligence (SMA 5504)</a></li>
 <li><a href="#course17">Principles of Computer Systems</a></li>
 <li><a href="#course18">Multithreaded Parallelism: Languages and Compilers</a></li>
-<li><a href="#course19">Practical Programming in C</a></li>
+<li><a href="#course19">Operating System Engineering</a></li>
 <li><a href="#course20">Introduction to C Memory Management and C++ Object-Oriented Programming</a></li>
 <li><a href="#course21">Building Programming Experience: A Lead-In to 6.001</a></li>
 <li><a href="#course22">Introduction to Programming in Java</a></li>
@@ -1975,5 +1975,148 @@
 </tbody>
 </table>
 </br>
+
+<h2 id="course19">Operating System Engineering</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS&nbsp;W&nbsp;/&nbsp;SOLUTIONS</th>
+<th scope="col">YEARS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Mid&ndash;Term Exams&nbsp;</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_828F12_q02_1_sol.pdf">Quiz 1 (PDF)</a></td>
+<td>2002</td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_828F12_q03_1_sol.pdf">Quiz 1 (PDF)</a></td>
+<td>2003</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_828F12_q04_1_sol.pdf">Quiz 1 (PDF)</a></td>
+<td>2004</td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_828F12_q05_1_sol.pdf">Quiz 1 (PDF)</a></td>
+<td>2005</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_828F12_q06_1_sol.pdf">Quiz 1 (PDF)</a></td>
+<td>2006</td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_828F12_q07_1_sol.pdf">Quiz 1 (PDF)</a></td>
+<td>2007</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_828F12_q08_1.pdf">Quiz 1 (without solutions) (PDF)</a></td>
+<td>2008</td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_828F12_q08_1_sol.pdf">Quiz 1 (PDF)</a></td>
+<td>2008</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_828F12_q09_1.pdf">Quiz 1 (without solutions) (PDF)</a></td>
+<td>2009</td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_828F12_q09_1_sol.pdf">Quiz 1 (PDF)</a></td>
+<td>2009</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_828F12_q10_1.pdf">Quiz 1 (without solutions) (PDF)</a></td>
+<td>2010</td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_828F12_q10_1_sol.pdf">Quiz 1 (PDF)</a></td>
+<td>2010</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_828F12_q11_1.pdf">Quiz 1(without solutions) (PDF)</a></td>
+<td>2011</td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_828F12_q11_1_sol.pdf">Quiz 1 (PDF)</a></td>
+<td>2011</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Final Exams&nbsp;</strong></td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_828F12_q02_2_sol.pdf">Quiz 2 (PDF)</a></td>
+<td>2002</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_828F12_q03_2_sol.pdf">Quiz 2 (PDF)</a></td>
+<td>2003</td>
+</tr>
+<tr class="row">
+<td><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_828F12_q04_2_sol.pdf">Quiz 2 (PDF)</a></td>
+<td>2004</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_828F12_q05_2_sol.pdf">Quiz 2 (PDF)</a></td>
+<td>2005</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="row">
+<td><a href="MIT6_828F12_q06_2_sol.pdf">Quiz 2 (PDF)</a></td>
+<td>2006</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_828F12_q07_2_sol.pdf">Quiz 2 (PDF)</a></td>
+<td>2007</td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_828F12_q08_2.pdf">Quiz 2 (without solutions) (PDF)</a></td>
+<td>2008</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_828F12_q08_2_sol.pdf">Quiz 2 (PDF)</a></td>
+<td>2008</td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_828F12_q09_2.pdf">Quiz 2 (without solutions) (PDF)</a></td>
+<td>2009</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_828F12_q09_2_sol.pdf">Quiz 2 (PDF)</a></td>
+<td>2009</td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_828F12_q10_2.pdf">Quiz 2 (without solutions) (PDF)</a></td>
+<td>2010</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_828F12_q10_2_sol.pdf">Quiz 2 (PDF)</a></td>
+<td>2010</td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_828F12_q11_2.pdf">Quiz 2 (without solutions) (PDF)</a></td>
+<td>2011</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_828F12_q11_2_sol.pdf">Quiz 2 (PDF)</a></td>
+<td>2011</td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_828F12_q12.pdf">Quiz 2 (without solutions) (PDF)</a></td>
+<td>2012</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_828F12_q12_sol.pdf">Quiz 2 (PDF)</a></td>
+<td>2012</td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
 
