@@ -25,7 +25,7 @@
 <li><a href="#course24">Advanced Complexity Theory</a></li>
 <li><a href="#course25">Distributed Algorithms</a></li>
 <li><a href="#course26">Advanced Data Structures</a></li>
-<li><a href="#course27">Laboratory in Software Engineering</a></li>
+<li><a href="#course27">Geometric Folding Algorithms: Linkages, Origami, Polyhedra</a></li>
 <li><a href="#course28">Performance Engineering of Software Systems</a></li> 
  <li><a href="#course29">A Gentle Introduction to Programming Using Python</a></li> 
 </ul>
@@ -2978,3 +2978,37 @@
 </tbody>
 </table>
 </br>
+<h2 id="course27">Geometric Folding Algorithms: Linkages, Origami, Polyhedra</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM&nbsp;SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="2/MIT6_849F12_ps1.pdf">Problem Set 1 (PDF)</a></td>
+<td><a href="2/MIT6_849F12_ps1_sol.pdf">Solutions to Problem Set 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_849F12_ps2.pdf">Problem Set 2 (PDF)</a></td>
+<td><a href="2/MIT6_849F12_ps2_sol.pdf">Solutions to Problem Set 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_849F12_ps3.pdf">Problem Set 3 (PDF)</a></td>
+<td><a href="2/MIT6_849F12_ps3_sol.pdf">Solutions to Problem Set 3 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_849F12_ps4.pdf">Problem Set 4 (PDF)</a></td>
+<td><a href="2/MIT6_849F12_ps4_sol.pdf">Solutions to Problem Set 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_849F12_ps5.pdf">Problem Set 5 (PDF)</a></td>
+<td><a href="2/MIT6_849F12_ps5_sol.pdf">Solutions to Problem Set 5 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
