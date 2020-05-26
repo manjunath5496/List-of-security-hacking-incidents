@@ -22,7 +22,7 @@
 <li><a href="#course21">Underactuated Robotics</a></li>
 <li><a href="#course22">Cognitive Robotics</a></li>
 <li><a href="#course23">Computer Graphics</a></li>
-<li><a href="#course24">Introduction to C++</a></li>
+<li><a href="#course24">Advanced Complexity Theory</a></li>
 <li><a href="#course25">Software Studio</a></li>
 <li><a href="#course26">Algorithms for Computational Biology</a></li>
 <li><a href="#course27">Laboratory in Software Engineering</a></li>
@@ -2484,3 +2484,78 @@
 </tbody>
 </table>
 </br>
+<h2 id="course24">Advanced Complexity Theory</h2>
+
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="2/MIT18_405JS16_TimeSpace.pdf">PH Time-Space Tradeoffs (PDF)</a><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT18_405JS16_Relativ.pdf">Relativization (PDF)</a><br /><br /></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT18_405JS16_Circuits.pdf">Circuits and Karp-Lipton (PDF)</a><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT18_405JS16_UniqueSAT.pdf">Unique-SAT, Parity-SAT, and Approximate Counting (PDF)</a><br /><br /></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT18_405JS16_Todas.pdf">Toda's Theorem (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT18_405JS16_AC0Lower.pdf">AC0 Lower Bounds and Switching Lemma (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT18_405JS16_Razborov.pdf">Razborov-Smolensky (PDF)</a><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/accnexp.pdf">NEXP vs ACC0 (Addendum to Arora-Barak) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="2/lecture1.pdf">Communication Complexity 1 (PDF)</a></p>
+<p><a href="2/lecture2.pdf">Lower Bounds for Deterministic Communication (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT18_405JS16_Random.pdf">Randomized Communication (PDF)</a><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT18_405JS16_IntroPCP.pdf">Intro to PCP (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="2/MIT18_405JS16_Linearity.pdf">Linearity Testing (PDF)</a><br /><br /></p>
+<p><a href="2/MIT18_405JS16_Exponential.pdf">Exponential Sized PCP (PDF)</a><br /><br /></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT18_405JS16_SumCheck.pdf">PCP with Polylogarithmic Queries and Sum Check (PDF)</a><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT18_405JS16_UGC_MAX2LIN.pdf">Unique Games Conjecture and Hardness for MAX-2LIN (PDF)</a><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT18_405JS16_P_vs_BPP1.pdf">P vs BPP 1 (PDF)</a><br /><br /></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT18_405JS16_P_vs_BPP2.pdf">P vs BPP 2 (PDF)</a><br /><br /></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT18_405JS16_CircuitLower.pdf">Derandomization Implies Circuit Lower Bounds (PDF)</a><br /><br /></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
