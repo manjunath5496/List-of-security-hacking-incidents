@@ -1433,5 +1433,22 @@
 </tbody>
 </table>
 </br>
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">QUIZZES</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Quiz 1 (<a href="MIT6_830F10_quiz01.pdf">PDF</a>)</td>
+<td>(<a href="MIT6_830F10_quiz01_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Quiz 2 (<a href="MIT6_830F10_quiz02.pdf">PDF</a>)</td>
+<td>(<a href="MIT6_830F10_quiz02_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
