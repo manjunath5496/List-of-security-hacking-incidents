@@ -9,7 +9,7 @@
 <li><a href="#course8">Machine Vision</a></li>
 <li><a href="#course9">Foundations of Computational and Systems Biology</a></li>
 <li><a href="#course10">Computational Cognitive Science</a></li>
-<li><a href="#course11">Computer Language Engineering</a></li>
+<li><a href="#course11">User Interface Design and Implementation</a></li>
 <li><a href="#course12">Probabilistic Systems Analysis and Applied Probability</a></li>
 <li><a href="#course13">Mathematics for Computer Science</a></li>
 <li><a href="#course14">Automata, Computability, and Complexity</a></li>
@@ -1215,3 +1215,119 @@
 </tbody>
 </table>
 </br>
+<h2 id="course11">User Interface Design and Implementation</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Usability</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec01.pdf">PDF - 1.6MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Learnability</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec02.pdf">PDF - 2.1MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Visibility</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec03.pdf">PDF - 1.3MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Efficiency</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec04.pdf">PDF - 2.4MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Errors and user control</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec05.pdf">PDF - 2.4MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>User-centered design</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec06.pdf">PDF - 1.3MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Task analysis</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec07.pdf">PDF - 1.5MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Generating designs</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec08.pdf">PDF - 1.6MB</a>)</td>
+</tr>
+<tr class="row">
+<td>User interface (UI) software architecture</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec09.pdf">PDF - 1.8MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Layout</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec10.pdf">PDF - 1.2MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Output</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec11.pdf">PDF - 1.4MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Input</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec12.pdf">PDF - 1.2MB</a>)</td>
+</tr>
+<tr class="row">
+<td>User testing</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec13.pdf">PDF - 1.1MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Controlled experiments</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec14.pdf">PDF - 1.4MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Experiment analysis</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec15.pdf">PDF - 1.8MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Web-scale research methods</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec16.pdf">PDF - 1.1MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Prototyping</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec17.pdf">PDF - 2.0MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Graphic design</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec18.pdf">PDF - 1.7MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Information visualization</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec19.pdf">PDF - 1.4MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Color design and typography</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec20.pdf">PDF - 1.7MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Accessibility</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec21.pdf">PDF - 1.0MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Internationalization</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec22.pdf">PDF - 1.1MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Heuristic evaluation</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec23.pdf">PDF - 1.2MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Animation</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec24.pdf">PDF - 1.1MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Input/output technology</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_831S11_lec25.pdf">PDF - 2.9MB</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
