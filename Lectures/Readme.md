@@ -21,7 +21,7 @@
 <li><a href="#course20">Computer Networks</a></li>
 <li><a href="#course21">Underactuated Robotics</a></li>
 <li><a href="#course22">Cognitive Robotics</a></li>
-<li><a href="#course23">Java Preparation for 6.170</a></li>
+<li><a href="#course23">Computer Graphics</a></li>
 <li><a href="#course24">Introduction to C++</a></li>
 <li><a href="#course25">Software Studio</a></li>
 <li><a href="#course26">Algorithms for Computational Biology</a></li>
@@ -2405,4 +2405,82 @@
 </table>
 
 </br>
+<h2 id="course23">Computer Graphics</h2>
 
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="2/MIT6_837F12_Lec00.pdf">Introduction and Course Overview (PDF - 2.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_837F12_Lec01.pdf">Bezier Curves and Splines (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_837F12_Lec02.pdf">Curves Properties and Conversion, Surface Representation (PDF - 1.7MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_837F12_Lec03.pdf">Coordinates and Transformations (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_837F12_Lec04.pdf">Hierarchical Modeling (PDF - 2.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_837F12_Lec05.pdf">Color (PDF - 3.5MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_837F12_Lec06.pdf">Basics of Computer Animation&mdash;Skinning/Enveloping (PDF - 2.4MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_837F12_Lec07.pdf">Particle Systems and ODEs (PDF - 1.8MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_837F12_Lec08.pdf">Particle Systems and ODE Solvers II, Mass Spring Modeling (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_837F12_Lec09.pdf">Implicit Integration, Collision Detection (PDF - 1.7MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_837F12_Lec10.pdf">Collision Detection and Response (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_837F12_Lec11.pdf">Ray Casting and Rendering (PDF - 3.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_837F12_Lec12.pdf">Ray Casting II (PDF - 2.0MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_837F12_Lec13.pdf">Ray Tracing (PDF - 2.9MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_837F12_Lec14.pdf">Acceleration Structures for Ray Casting (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_837F12_Lec15.pdf">Shading and Material Appearance (PDF - 1.8MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_837F12_Lec16.pdf">Texture Mapping and Shaders (PDF - 2.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_837F12_Lec17.pdf">Sampling, Aliasing, and Mipmaps (PDF - 1.6MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_837F12_Lec18.pdf">Global Illumination and Monte Carlo (PDF - 2.7MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_837F12_Lec21.pdf">Graphics Pipeline and Rasterization (PDF - 2.4MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT6_837F12_Lec22.pdf">Graphics Pipeline and Rasterization II (PDF - 2.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT6_837F12_Lec23.pdf">Real-time Shadows (PDF - 2.8MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
