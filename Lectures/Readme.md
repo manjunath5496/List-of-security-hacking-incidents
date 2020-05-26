@@ -14,7 +14,7 @@
 <li><a href="#course13">Fundamentals of Program Analysis</a></li>
 <li><a href="#course14">Computer System Architecture</a></li>
 <li><a href="#course15">Distributed Computer Systems Engineering</a></li>
-<li><a href="#course16">Information and Entropy</a></li>
+<li><a href="#course16">Techniques in Artificial Intelligence (SMA 5504)</a></li>
 <li><a href="#course17">Introduction to MATLAB</a></li>
 <li><a href="#course18">Great Ideas in Theoretical Computer Science</a></li>
 <li><a href="#course19">Practical Programming in C</a></li>
@@ -1789,4 +1789,25 @@
 </table>
 </br>
 
-
+<h2 id="course16">Techniques in Artificial Intelligence (SMA 5504)</h2>
+<p>Lecture 1: What is Artificial Intelligence (AI)? (<a href="1/Lecture1Final.pdf">PDF</a>)</p>
+<p>Lecture 2: Problem Solving and Search (<a href="1/Lecture2Final.pdf">PDF</a>)</p>
+<p>Lecture 3: Logic (<a href="1/Lecture3Final.pdf">PDF</a>)</p>
+<p>Lecture 4.: Satisfiability and Validity (<a href="1/Lecture4RevisedPart1.pdf">PDF - 1.2 MB</a>)</p>
+<p>Lecture 5.: First-Order Logic (<a href="1/Lecture5FinalPart1Save.pdf">PDF</a>)</p>
+<p>Lecture 7.: Resolution Theorem Proving: Propositional Logic (<a href="1/Lecture7FinalPart1.pdf">PDF</a>)</p>
+<p>Lecture 8.: Resolution Theorem Proving: First Order Logic (<a href="1/Lecture8FinalPart1.pdf">PDF</a>)</p>
+<p>Lecture 9: Logic Miscellanea (<a href="1/Lecture9Final.pdf">PDF</a>)</p>
+<p>Lecture 10: Planning (<a href="1/Lecture10FinalPart1.pdf">PDF</a>)</p>
+<p>Lecture 11: Partial-Order Planning Algorithms (<a href="1/Lecture11FinalPart1.pdf">PDF</a>)</p>
+<p>Lecture 12: Graph Plan (<a href="1/Lecture12FinalPart1.pdf">PDF</a>)</p>
+<p>Lecture 13: Planning Miscellany (<a href="1/Lecture13FinalPart1.pdf">PDF</a>)</p>
+<p>Lecture 14: Probability (<a href="1/Lecture14FinalPart1.pdf">PDF</a>)</p>
+<p>Lecture 15: Bayesian Networks (<a href="1/Lecture15FinalPart1.pdf">PDF</a>)</p>
+<p>Lecture 16: Inference in Bayesian Networks (<a href="1/Lecture16FinalPart1.pdf">PDF</a>)</p>
+<p>Lecture 17: Where do Bayesian Networks Come From? (<a href="1/Lecture17FinalPart1.pdf">PDF</a>)</p>
+<p>Lecture 18: Learning With Hidden Variables (<a href="1/Lecture18FinalPart1.pdf">PDF</a>)</p>
+<p>Lecture 19: Decision Making under Uncertainty (<a href="1/Lecture19FinalPart1.pdf">PDF</a>)</p>
+<p>Lecture 20: Markov Decision Processes (<a href="1/Lecture20FinalPart1.pdf">PDF</a>)</p>
+<p>Lecture 22: Reinforcement Learning (<a href="1/Lecture22Final.pdf">PDF</a>)</p>
+</br>
