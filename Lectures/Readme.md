@@ -6,7 +6,7 @@
 <li><a href="#course5">Algorithms for Inference</a></li>
 <li><a href="#course6">Information Theory</a></li>
 <li><a href="#course7">Foundations of Algorithms and Computational Techniques in Systems Biology</a></li>
-<li><a href="#course8">Introduction to Computer Science and Programming</a></li>
+<li><a href="#course8">Machine Vision</a></li>
 <li><a href="#course9">Introduction to Algorithms</a></li>
 <li><a href="#course10">Artificial Intelligence</a></li>
 <li><a href="#course11">Computer Language Engineering</a></li>
@@ -865,6 +865,110 @@
 
 </br>
 
+<h2 id="course8">Machine Vision</h2>
 
 
 
+<table class="tablewidth75" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">LECTURE NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2"><em>General Introduction<br /><br /></em>Estimating Image Motion Field<br /><br />Pinhole Camera Model</td>
+<td headers="col3">(<a href="1/l01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>General Introduction (cont.)<br /><br /></em>Lambertian Surfaces<br /><br /><em>Image Motion in 2D</em></td>
+<td headers="col3">(<a href="1/l02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Image Motion in 2D (cont.)<br /><br />Constant Brightness Equation</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Constant Brightness Equation (cont.)</em><br /><br />Binocular Stereo<br /><br />Reflectance map:&nbsp;Image Formation, Surface Reflectance, Surface Orientation</td>
+<td headers="col3">(<a href="1/l04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Photometric Stereo</em><br /><br />Brightness Distribution Function (BRDF)</td>
+<td headers="col3">(<a href="1/l05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Shape from Shading</td>
+<td headers="col3">(<a href="1/l06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Shape from Shading (cont.)<br /><br />Shape from Gradient</td>
+<td headers="col3">(<a href="1/l07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Shape from Gradient (cont.)</td>
+<td headers="col3">(<a href="1/l08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Binary Image Processing<br /><br /></em>Methods and Applications</td>
+<td headers="col3">(<a href="1/l09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Binary Image Processing (cont.)</td>
+<td headers="col3">(<a href="1/l10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Binary Image Processing (cont.)</td>
+<td headers="col3">(<a href="1/l11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Binary Image Processing (cont.)</td>
+<td headers="col3">(<a href="1/l12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Binary Image Processing (cont.)</td>
+<td headers="col3">(<a href="1/l13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Euler Equations and their Applications</td>
+<td headers="col3">(<a href="1/l14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Optical Flow</td>
+<td headers="col3">(<a href="1/l15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Optical Flow (cont.)</em><br /><br />Motion Vision</td>
+<td headers="col3">(<a href="1/l16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Optical Flow (cont.)</em><br /><br />Motion Field</td>
+<td headers="col3">(<a href="1/l17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Optical Flow (cont.)</em><br /><br />Direct Motion Vision</td>
+<td headers="col3">(<a href="1/l18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Optical Flow (cont.)</td>
+<td headers="col3">(<a href="1/l19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Extended Gaussian Images</em><br /><br />Geometry</td>
+<td headers="col3">(<a href="1/l20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Extended Gaussian Images (cont.)</em><br /><br />Tessellation<br /><br />Platonic solids</td>
+<td headers="col3">(<a href="1/l21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Extended Gaussian Images (cont.)</em><br /><br />Quaternions<br /><br />Operations on EGIs</td>
+<td headers="col3">(<a href="1/l22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Photogrammetry</em><br /><br />Absolute Orientation<br /><br />Exterior Orientation<br /><br />Interior Orientation</td>
+<td headers="col3">(<a href="1/l23.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
