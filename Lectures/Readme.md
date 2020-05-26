@@ -1837,3 +1837,36 @@
 <p>Handout 31: Computer Security in the Real World (<a href="1/31security.pdf">PDF</a>)</p>
 </br>
 
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th>ASSIGNMENTS</th>
+<th>SOLUTIONS</th>
+<th>CLARIFICATIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="1/p1.pdf">PDF</a>)</td>
+<td>(<a href="1/s1.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="1/p2.pdf">PDF</a>)</td>
+<td>(<a href="1/s2.pdf">PDF</a>)</td>
+<td>(<a href="1/ps2clar.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="1/p3.pdf">PDF</a>)</td>
+<td>(<a href="1/s3.pdf">PDF</a>)</td>
+<td>(<a href="1/ps3clar.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="1/p4.pdf">PDF</a>)</td>
+<td>(<a href="1/s4.pdf">PDF</a>)</td>
+<td>(<a href="1/ps4clar.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
