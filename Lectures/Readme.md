@@ -18,7 +18,7 @@
 <li><a href="#course17">Principles of Computer Systems</a></li>
 <li><a href="#course18">Multithreaded Parallelism: Languages and Compilers</a></li>
 <li><a href="#course19">Operating System Engineering</a></li>
-<li><a href="#course20">Introduction to C Memory Management and C++ Object-Oriented Programming</a></li>
+<li><a href="#course20">Computer Networks</a></li>
 <li><a href="#course21">Building Programming Experience: A Lead-In to 6.001</a></li>
 <li><a href="#course22">Introduction to Programming in Java</a></li>
 <li><a href="#course23">Java Preparation for 6.170</a></li>
@@ -2117,6 +2117,93 @@
 </tbody>
 </table>
 </br>
+<h2 id="course20">Computer Networks</h2>
 
-
-
+<table class="tablewidth75">
+<thead>
+<tr>
+<th>TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>L0 for background (<a href="L0singlelink.pdf">PDF</a>)<br /><strong>Part I: Internetworking and Routing</strong><br />Packet Switching (<a href="L1PacketSwitch.pdf">PDF</a>)<br />A Simple Network</td>
+</tr>
+<tr class="alt-row">
+<td>The Internetworking Problem (<a href="L2Internetworking.pdf">PDF</a>)<br />The IP/TCP Split<br />Connections<br />Scaling IP</td>
+</tr>
+<tr class="row">
+<td>Scaling IP (cont.) (<a href="L3ScalingIP.pdf">PDF</a>)<br />Routers: Forwarding and Routing<br />The IP Forwarding Path</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Tutorial on useful tools</strong>&nbsp;(<a href="T1tools.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Unicast Internet Routing: Intra- and Inter-Domain Routing (<a href="L4UnicastRtg.pdf">PDF</a>)<br /><strong>Project suggestions handed out; proposals due 1 day after T3</strong></td>
+</tr>
+<tr class="row">
+<td><strong>Intro to the ns2 Network Simulator</strong>&nbsp;(<a href="t2ns.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Security Problems with the Internet Architecture (<a href="L7Security.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Tutorial on IPv6</strong>&nbsp;(<a href="T3IPv6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Project Proposals Due (3 days after T3). Three hard copies.</strong></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Part II: Resource Management<br /></strong>End-to-End Congestion Control (<a href="L8e2ecc.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Router-Assisted Congestion Control: Active Queue Management (<a href="L9routercc.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fair Queuing and Variants (<a href="L10fq.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Modeling and Measurement-I: Packet Trains<br />Slides (<a href="L11slides.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>TCP Congestion Control Impediments</strong></td>
+</tr>
+<tr class="row">
+<td>Adaptive Network Applications<br />Nick's CM slides (<a href="L12cmnick.pdf">PDF</a>)<br />Xiaowei's ALF slides (<a href="L12alfyxw.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Quiz 1 Review</strong></td>
+</tr>
+<tr class="row">
+<td><strong>Quiz 1: In Class (4 days after T6)</strong></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Project Meetings (2 days after Quiz 1)</strong></td>
+</tr>
+<tr class="row">
+<td><strong>Tutorial: Project Office Hours</strong></td>
+</tr>
+<tr class="alt-row">
+<td>QoS-I: Why QoS; Basic Models and Architecture (<a href="L13servicemodel.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Tutorial: Project Office Hours</strong></td>
+</tr>
+<tr class="row">
+<td>Modeling and Measurement-II: Traffic Self-Similarity; Virus Propagation (<a href="L15selfsim.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Routing in Overlay Networks (<a href="L17overlay.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>DNS (<a href="L18dns.pdf">PDF</a>)<br />Resource Discovery<br />Other Examples of Lookups<br /><strong>Project write-up (checkpoint) due in class</strong></td>
+</tr>
+<tr class="row">
+<td><strong>Anonymity</strong>&nbsp;(<a href="T11anonymity.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Multicast (cont.); Scalability and Robustness in Networks (<a href="L22srm.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
