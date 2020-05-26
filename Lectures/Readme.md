@@ -1,6 +1,6 @@
 <ul>
 <li><a href="#course1">Networks</a></li>
-<li><a href="#course2">Introduction to Computational Thinking and Data Science</a></li>
+<li><a href="#course2">Introduction to Mathematical Programming</a></li>
 <li><a href="#course3">Computation Structures</a></li>
 <li><a href="#course4">Effective Programming in C and C++</a></li>
 <li><a href="#course5">Software Construction</a></li>
@@ -90,4 +90,121 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course2">Introduction to Mathematical Programming</h2>
+
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Formulations</td>
+<td>(<a href="MIT6_251JF09_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Geometry I</td>
+<td>(<a href="MIT6_251JF09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Geometry II</td>
+<td>(<a href="MIT6_251JF09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Geometry III</td>
+<td>(<a href="MIT6_251JF09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Simplex method I</td>
+<td>(<a href="MIT6_251JF09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Simplex method II</td>
+<td>(<a href="MIT6_251JF09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Simplex method III</td>
+<td>(<a href="MIT6_251JF09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Simplex method IV</td>
+<td>(<a href="MIT6_251JF09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Duality theory I</td>
+<td>(<a href="MIT6_251JF09_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Duality theory II</td>
+<td>(<a href="MIT6_251JF09_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Duality theory III</td>
+<td>(<a href="MIT6_251JF09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sensitivity analysis</td>
+<td>(<a href="MIT6_251JF09_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Robust optimization</td>
+<td>(<a href="MIT6_251JF09_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Large scale optimization I</td>
+<td>(<a href="MIT6_251JF09_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Large scale optimization II</td>
+<td>(<a href="MIT6_251JF09_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Network flows I</td>
+<td>(<a href="MIT6_251JF09_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Network flows II</p>
+</td>
+<td>(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT6_251JF09_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Ellipsoid method</td>
+<td>(<a href="MIT6_251JF09_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problems with exponentially many constraints</td>
+<td>(<a href="MIT6_251JF09_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Interior point methods I</td>
+<td>(<a href="MIT6_251JF09_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Interior point methods II</td>
+<td>(<a href="MIT6_251JF09_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Interior point methods III</td>
+<td>(<a href="MIT6_251JF09_lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Semidefinite optimization</td>
+<td>(<a href="MIT6_251JF09_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Discrete optimization I</td>
+<td>(<a href="MIT6_251JF09_lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Discrete optimization II</td>
+<td>(<a href="MIT6_251JF09_lec25.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
