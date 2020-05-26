@@ -8,7 +8,7 @@
 <li><a href="#course7">Foundations of Algorithms and Computational Techniques in Systems Biology</a></li>
 <li><a href="#course8">Machine Vision</a></li>
 <li><a href="#course9">Foundations of Computational and Systems Biology</a></li>
-<li><a href="#course10">Artificial Intelligence</a></li>
+<li><a href="#course10">Computational Cognitive Science</a></li>
 <li><a href="#course11">Computer Language Engineering</a></li>
 <li><a href="#course12">Probabilistic Systems Analysis and Applied Probability</a></li>
 <li><a href="#course13">Mathematics for Computer Science</a></li>
@@ -1131,5 +1131,87 @@
 </tbody>
 </table>
 </br>
+<h2 id="course10">Computational Cognitive Science</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl474id0_1" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl474id0_1">Introduction (<a href="sept_9_2004.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Foundations of Inductive Learning (<a href="sept_14_2004.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Knowledge Representation: Spaces, Trees, Features (<a href="knowledge_sep16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Knowledge Representation: Language and Logic 1 (<a href="sept_21_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Knowledge Representation: Language and Logic 2 (<a href="sept_23_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Knowledge Representation: Great Debates 1 (<a href="sept_28_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Knowledge Representation: Great Debates 2 (<a href="sept_30_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Basic Bayesian Inference (<a href="oct_5_2004_final.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Graphical Models and Bayes Nets (<a href="oct_7_2004_final.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Simple Bayesian Learning 1 (<a href="oct_12_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Simple Bayesian Learning 2 (<a href="oct_14_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Probabilistic Models for Concept Learning and Categorization 1 (<a href="oct_19_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Probabilistic Models for Concept Learning and Categorization 2 (<a href="oct_21_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Unsupervised and Semi-supervised Learning (<a href="oct_26_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Non-parametric Classification: Exemplar Models and Neural Networks 1&nbsp;<span class="nobr">(<a href="oct_28_2004_fin.pdf">PDF - 1.4 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Non-parametric Classification: Exemplar Models and Neural Networks 2 (<a href="nov_2_2004_final.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Controlling Complexity and Occam's Razor 1 (<a href="nov_4_2004_final.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Controlling Complexity and Occam's Razor 2 (<a href="nov_9_2004_final.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Intuitive Biology and the Role of Theories (<a href="nov_16_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Learning Domain Structures 1 (<a href="nov18.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Learning Domain Structures 2 (<a href="nov_23_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Causal Learning (<a href="nov_30_2004_fin.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl474id0_1">Causal Theories 1 (<a href="dec_2_2004_final.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl474id0_1">Causal Theories 2 (<a href="dec_7_2004_final.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
