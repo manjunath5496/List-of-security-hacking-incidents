@@ -209,7 +209,6 @@
 </br>
 <h2 id="course3">Nonlinear Programming</h2>
 
-
 <table class="tablewidth75" summary="See table caption for summary.">
 <thead>
 <tr>
@@ -219,9 +218,6 @@
 <tbody>
 <tr class="row">
 <td>Unconstrained Optimization Optimality Conditions (<a href="lec1_unconstr_opt.pdf">PDF</a>)</td>
-</tr>
-<tr class="alt-row">
-<td>Convex Unconstrained Optimization Optimality Conditions</td>
 </tr>
 <tr class="row">
 <td>Newton's Method (<a href="lec3_newton_mthd.pdf">PDF</a>)</td>
@@ -236,46 +232,22 @@
 <td>Constrained Optimization Optimality Conditions I (<a href="lec6_constr_opt.pdf">PDF</a>)</td>
 </tr>
 <tr class="row">
-<td>Constrained Optimization Optimality Conditions II</td>
-</tr>
-<tr class="alt-row">
-<td>Constrained Optimization Optimality Conditions III</td>
-</tr>
-<tr class="row">
 <td>Projection Methods for Equality Constrained Problems (<a href="lec9_project_mthd.pdf">PDF</a>)</td>
 </tr>
 <tr class="alt-row">
 <td>Projection Methods/Penalty Methods (<a href="lec10_penalty_mt.pdf">PDF</a>)</td>
 </tr>
-<tr class="row">
-<td>Penalty Methods</td>
-</tr>
 <tr class="alt-row">
 <td>Barrier Methods, Conditional Gradient Method (<a href="lec12_barrier_mt.pdf">PDF</a>)</td>
-</tr>
-<tr class="row">
-<td>Midterm Exam</td>
 </tr>
 <tr class="alt-row">
 <td>Interior-Point Methods for Linear Optimization I (<a href="lec14_int_pt_mthd.pdf">PDF</a>)</td>
 </tr>
-<tr class="row">
-<td>Interior-Point Methods for Linear Optimization II</td>
-</tr>
 <tr class="alt-row">
 <td>Analysis of Convex Sets (<a href="lec16_convex_sets.pdf">PDF</a>)</td>
 </tr>
-<tr class="row">
-<td>Analysis of Convex Functions</td>
-</tr>
 <tr class="alt-row">
 <td>Duality Theory I (<a href="lec18_duality_thy.pdf">PDF</a>)</td>
-</tr>
-<tr class="row">
-<td>Duality Theory II</td>
-</tr>
-<tr class="alt-row">
-<td>Duality Theory III</td>
 </tr>
 <tr class="row">
 <td>Duality Theory IV (<a href="lec21_hw_probs.pdf">PDF</a>)</td>
