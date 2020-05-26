@@ -28,6 +28,7 @@
 <li><a href="#course27">Geometric Folding Algorithms: Linkages, Origami, Polyhedra</a></li>
 <li><a href="#course28">Essential Coding Theory</a></li> 
  <li><a href="#course29">Algorithmic Lower Bounds: Fun with Hardness Proofs</a></li> 
+  <li><a href="#course30">Machine Learning</a></li> 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Networks</h2>
@@ -3283,3 +3284,89 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course30">Machine Learning</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction, linear classification, perceptron update rule (<a href="3/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Perceptron convergence, generalization (<a href="3/lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Maximum margin classification (<a href="3/lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Classification errors, regularization, logistic regression (<a href="3/lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Linear regression, estimator bias and variance, active learning (<a href="3/lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Active learning (cont.), non-linear predictions, kernals (<a href="3/lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Kernal regression, kernels (<a href="3/lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Support vector machine (SVM) and kernels, kernel optimization (<a href="3/lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Model selection (<a href="3/lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Model selection criteria (<a href="3/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Description length, feature selection (<a href="3/lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Combining classifiers, boosting (<a href="3/lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Boosting, margin, and complexity (<a href="3/lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Margin and generalization, mixture models (<a href="3/lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Mixtures and the expectation maximization (EM) algorithm (<a href="3/lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>EM, regularization, clustering (<a href="3/lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Clustering (<a href="3/lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Spectral clustering, Markov models (<a href="3/lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Hidden Markov models (HMMs) (<a href="3/lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>HMMs (cont.) (<a href="3/lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Bayesian networks (<a href="3/lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Learning Bayesian networks (<a href="3/lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Probabilistic inference</p>
+<p>Guest lecture on collaborative filtering (<a href="3/lec23.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
