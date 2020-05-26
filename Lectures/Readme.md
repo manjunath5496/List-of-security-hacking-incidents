@@ -12,7 +12,7 @@
 <li><a href="#course11">User Interface Design and Implementation</a></li>
 <li><a href="#course12">Database Systems</a></li>
 <li><a href="#course13">Fundamentals of Program Analysis</a></li>
-<li><a href="#course14">Automata, Computability, and Complexity</a></li>
+<li><a href="#course14">Computer System Architecture</a></li>
 <li><a href="#course15">Design and Analysis of Algorithms</a></li>
 <li><a href="#course16">Information and Entropy</a></li>
 <li><a href="#course17">Introduction to MATLAB</a></li>
@@ -1563,6 +1563,114 @@
 
 
 </br>
+
+<h2 id="course14">Computer System Architecture</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th>TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><strong>Module 1</strong></td>
+</tr>
+<tr class="alt-row">
+<td>History of Calculation and Computer Architecture (A) (<a href="l01_earlydev.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Influence of Technology and Software on Instruction Sets: Up to the dawn of IBM 360 (A) (<a href="l02_fifties.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Complex Instruction Set Evolution in the Sixties: Stack and GPR Architectures (A) (<a href="l03_sixties.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Microprogramming (A) (<a href="l04_microprog.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Simple Instruction Pipelining (A) (<a href="l05_singlecycle.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Pipeline Hazards (A) (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l06_pipeline.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><strong>Module 2</strong></td>
+</tr>
+<tr class="row">
+<td>Multilevel Memories - Technology (J) (<a href="l07_caches.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Cache (Memory) Performance Optimization (J) (<a href="l08_caches_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Virtual Memory Basics (J) (<a href="l09_add_trans.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Virtual Memory: Part Deux (A) (<a href="l10_vrtl_mem.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Module 3</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Complex Pipelining (A) (<a href="l11_cmplx_pipes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Out of Order Execution and Register Renaming (A) (<a href="l12_ooo_pipes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Branch Prediction and Speculative Execution (A) (<a href="l13_brnchpred.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Advanced Superscalar Architectures (J) (<a href="l14_superscalar.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Microprocessor Evolution: 4004 to Pentium 4 (J) (<a href="l15_micro_evlutn.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Module 4</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Synchronization and Sequential Consistency (A) (<a href="l16_smps_sc.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Cache Coherence (A) (<a href="l17_cc.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Cache Coherence (Implementation) (A) (<a href="l18_ccprotocols.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Snoopy Protocols (A) (<a href="l19_snoopy_prot.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Relaxed Memory Models (A) (<a href="l20_relaxedmm.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><strong>Module 5</strong></td>
+</tr>
+<tr class="alt-row">
+<td>VLIW/EPIC: Statically Scheduled ILP (J) (<a href="l21_vliw.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Vector Computers (J) (<a href="l22_vector.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Multithreaded Processors (J) (<a href="l23_multithread.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Reliable Architectures (J) (<a href="l24_reliability.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Virtual Machines (J) (<a href="l25_vms.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
 
 
 
