@@ -1,5 +1,5 @@
 <ul>
-<li><a href="#course1">Structure and Interpretation of Computer Programs</a></li>
+<li><a href="#course1">Networks</a></li>
 <li><a href="#course2">Introduction to Computational Thinking and Data Science</a></li>
 <li><a href="#course3">Computation Structures</a></li>
 <li><a href="#course4">Effective Programming in C and C++</a></li>
@@ -30,4 +30,47 @@
  <li><a href="#course29">A Gentle Introduction to Programming Using Python</a></li> 
 </ul>
 <p>&nbsp;</p>
-<h2 id="course1">Structure and Interpretation of Computer Programs</h2>
+<h2 id="course1">Networks</h2>
+
+<table class="tablewidth50">
+<thead>
+<tr>
+<th>PROBLEM SET</th>
+<th>SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p><a href="MIT14_15JS18_ps1.pdf">Problem Set 1 (PDF)</a></p>
+<p><a href="MIT14_15JS18_p4_data.mat">PS1-4 Data (MAT)</a></p>
+<p><a href="MIT14_15JS18_p4.py">PS1-4 Code (PY)</a></p>
+</td>
+<td><a href="MIT14_15JS18_sol1.pdf">Problem Set 1 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT14_15JS18_ps2.pdf">Problem Set 2 (PDF)</a></td>
+<td><a href="MIT14_15JS18_sol2.pdf">Problem Set 2 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT14_15JS18_ps3.pdf">Problem Set 3 (PDF)</a></td>
+<td><a href="MIT14_15JS18_sol3.pdf">Problem Set 3 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT14_15JS18_ps4.pdf">Problem Set 4 (PDF)</a></td>
+<td><a href="MIT14_15JS18_sol4.pdf">Problem Set 4 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT14_15JS28_ps5.pdf">Problem Set 5 (PDF)</a></td>
+<td><a href="MIT14_15JS18_sol5.pdf">Problem Set 5 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT14_15JS18_ps6.pdf">Problem Set 6 (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
