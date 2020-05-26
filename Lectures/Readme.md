@@ -30,6 +30,7 @@
  <li><a href="#course29">Algorithmic Lower Bounds: Fun with Hardness Proofs</a></li> 
   <li><a href="#course30">Machine Learning</a></li>
    <li><a href="#course31">Randomized Algorithms</a></li> 
+    <li><a href="#course32">Network and Computer Security</a></li> 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Networks</h2>
@@ -3628,4 +3629,105 @@
 </tbody>
 </table>
 </br>
+<h2 id="course32">Network and Computer Security</h2>
 
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;TOPICS&nbsp;AND&nbsp;NOTES</th>
+<th scope="col">READINGS&nbsp;AND&nbsp;HANDOUTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec01.pdf">Course Introduction (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec02.pdf">Security Mechanisms and Principles (PDF)</a></p>
+</td>
+<td>Juels, Ari, and Ronald Rivest. "<a href="http://dx.doi.org/10.1145/2508859.2516671">Honeywords: Making Password-Cracking Detectable</a>."<em>&nbsp;ACM CCS</em>&nbsp;(2013): 145&ndash;60.</td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec03.pdf">Encryption, Perfect Secrecy, One-Time Pad (PDF - 1.6MB)</a></td>
+<td>[Katz and Lindell] Chapters 1, 2, and 3.</td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec04.pdf">Cryptographic Hash Functions (PDF - 1.6MB)</a></td>
+<td>
+<p>Avgerinos, Thanassis, Sang Kil Cha, et al. "<a href="http://dx.doi.org/10.1145/2560217.2560219">Automatic Exploit Generation</a>."&nbsp;<em>Communications of the ACM</em>&nbsp;57, no. 2 (2014): 74&ndash;84.</p>
+<p>Hess, Austin. "<a href="http://tech.mit.edu/V134/N5/tidbit.html">Student Innovators May Get New Legal Resource</a>."&nbsp;<em>The Tech</em>&nbsp;134, no. 5 (2014).</p>
+</td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec05.pdf">Hashing Applications and Constructions (PDF - 1.7MB)</a></td>
+<td>Rivest, Ronald L., and Adi Shamir.&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="http://people.csail.mit.edu/rivest/RivestShamir-mpay.pdf">"PayWord and MicroMint: Two Simple Micropayment Schemes." (PDF)</a>&nbsp;MIT Laboratory for Computer Science, 2001.</td>
+</tr>
+<tr class="alt-row">
+<td><a href="4/MIT6_857S14_Lec06.pdf">Bitcoin (PDF)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec07.pdf">Secret Sharing (PDF - 2.2MB)</a><br /><br /></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec08.pdf">Block Ciphers (PDF - 2.8MB)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec09.pdf">Block Cipher Modes (PDF - 5.2MB)</a></td>
+<td>Desai, Anand. "<a href="http://dx.doi.org/10.1007/3-540-44598-6_25">New Paradigms for Constructing Symmetric Encryption Schemes Secure Against Chosen-Ciphertext Attack</a>."&nbsp;<em>Advances in Crptography</em>&nbsp;1880 (2000): 394&ndash;412. (University of California at San Diego.)</td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec10.pdf">Message Authentication Codes (PDF - 6.7MB)</a></td>
+<td>Bellare, M., P. Rogaway, et al. "<a href="http://dx.doi.org/10.1007/978-3-540-25937-4_25">The EAX Mode of Operation</a>."&nbsp;<em>Fast Software Encryption</em>&nbsp;3017 (2004): 389&ndash;407.</td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec11.pdf">Prime Finding and other "Crypto" Math (PDF - 8.1MB)</a></td>
+<td>Cao, Zhengjun.&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://eprint.iacr.org/2013/449.pdf">"A Note On the Storage Requirement for AKS Primality Testing Algorithm." (PDF)</a>&nbsp;Shanghai University.</td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec12.pdf">Diffie-Hellman Key Exchange and Crypto Groups (PDF - 7.6MB)</a></td>
+<td><a href="http://www.cs.ut.ee/~lipmaa/crypto/link/protocols/auctions.php">Cryptographic Auctions</a></td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec13.pdf">Pedersen Commitment, PK Encryption, DDH (PDF - 8.4MB)</a></td>
+<td>
+<p>Paar, Christof, and Jan Pelzl. Chapters 6, 7, and 8 in&nbsp;<a href="http://www.springer.com/computer/security+and+cryptology/book/978-3-642-04100-6"><em>Understanding Cryptography: A Textbook for Students and Practitioners</em></a>. Springer, 2011. ISBN: 9783642041006. [Preview with&nbsp;<a href="http://books.google.com/books?id=f24wFELSzkoC&amp;pg=PA149#v=onepage">Google Books</a>]</p>
+<p>[Katz and Lindell] Chapter 10.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec14.pdf">Malleability of El Gamal, IND-CCA2 (PDF - 8.1MB)</a></td>
+<td>
+<p>Diffie, Whitfield, and Martin E. Hellman. "<a href="http://dx.doi.org/10.1109/TIT.1976.1055638">New Directions in Cryptography</a>."&nbsp;<em>IEEE Transactions on Information Theory</em>&nbsp;22, no. 6 (1976): 644&ndash;54.</p>
+<p>Boneh, Dan.&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="http://www.ams.org/notices/199902/boneh.pdf">"Twenty Years of Attacks on the RSA Cryptosystem." (PDF)</a>&nbsp;<em>Notices of the AMS</em>&nbsp;42, no. 2 (1999): 203&ndash;13.</p>
+</td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec15.pdf">Digital Signatures (PDF - 8.4MB)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec16.pdf">DSA, Gap Groups (PDF - 3.0MB)</a></td>
+<td>Project Progress Review</td>
+</tr>
+<tr class="row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec17.pdf">Gap Groups, Bilinear Maps, and Applications (PDF - 5.2MB)</a></td>
+<td>
+<p>Dutta, R., R. Barua, et al. "<a href="http://eprint.iacr.org/2004/064">Pairing-Based Cryptographic Protocols: A Survey</a>." Cryptology ePrint Archive: Report 2004 / 064.</p>
+<p>The Pairing-Based Crypto Lounge.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec18.pdf">Zero-Knowledge Proofs (PDF - 4.0MB)</a></td>
+<td>
+<p>Goldreich, Oded. "<a href="http://www.wisdom.weizmann.ac.il/~oded/zk-tut02.html">A Short Tutorial of Zero-Knowledge</a>." Weizmann Institute of Science, 2010.</p>
+<p><a href="http://www.wisdom.weizmann.ac.il/~naor/PAPERS/sudoku_abs.html">Cryptographic and Physical Zero-Knowledge Proof Systems for Solutions of Sudoku Puzzles</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
