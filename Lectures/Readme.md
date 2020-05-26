@@ -15,7 +15,7 @@
 <li><a href="#course14">Computer System Architecture</a></li>
 <li><a href="#course15">Distributed Computer Systems Engineering</a></li>
 <li><a href="#course16">Techniques in Artificial Intelligence (SMA 5504)</a></li>
-<li><a href="#course17">Introduction to MATLAB</a></li>
+<li><a href="#course17">Principles of Computer Systems</a></li>
 <li><a href="#course18">Great Ideas in Theoretical Computer Science</a></li>
 <li><a href="#course19">Practical Programming in C</a></li>
 <li><a href="#course20">Introduction to C Memory Management and C++ Object-Oriented Programming</a></li>
@@ -1811,3 +1811,29 @@
 <p>Lecture 20: Markov Decision Processes (<a href="1/Lecture20FinalPart1.pdf">PDF</a>)</p>
 <p>Lecture 22: Reinforcement Learning (<a href="1/Lecture22Final.pdf">PDF</a>)</p>
 </br>
+<h2 id="course17">Principles of Computer Systems</h2>
+
+
+<p>Handouts 1-6: Course Information, Spec language (<a href="1/16.pdf">PDF</a>)</p>
+<p>Handout 7: Disks and File Systems (<a href="1/7.pdf">PDF</a>)</p>
+<p>Handout 8: Generalizing Abstraction Functions (<a href="1/8.pdf">PDF</a>)</p>
+<p>Handout 9: Atomic Semantics of Spec (<a href="1/9.pdf">PDF</a>)</p>
+<p>Handouts 10, 11: Performance, Firefly RPC (<a href="1/1011.pdf">PDF</a>)</p>
+<p>Handouts 12, 13: Naming, Semantic File System (<a href="1/1213.pdf">PDF</a>)</p>
+<p>Handouts 14-16: Concurrency (<a href="1/1416.pdf">PDF</a>)</p>
+<p>Handout 17: Formal Concurrency (<a href="1/17.pdf">PDF</a>)</p>
+<p>Handout 18: Consensus (<a href="1/18.pdf">PDF</a>)</p>
+<p>Handout 19: Sequential Transactions with Caching (<a href="1/19.pdf">PDF</a>)</p>
+<p>Handout 20: Concurrent Transactions lecture, slides, and book (<a href="1/20.pdf">PDF</a>)</p>
+<p>Handouts 21,22: Distributed Systems, paper: Autonet (<a href="1/2122.pdf">PDF</a>)</p>
+<p>Handout 27: Distributed Transactions (<a href="1/27.pdf">PDF</a>)</p>
+<p>Handout 23: Networks - Links and Switches (<a href="1/23.pdf">PDF</a>)</p>
+<p>Handout 24: Network Objects (<a href="1/24.pdf">PDF</a>)</p>
+<p>Handout 25:&nbsp;Paper: Andrew Birrell, et al. "Network objects,"&nbsp;<em>Proc.14th ACM Symposium on Operating Systems Principles</em>, Asheville, NC, December 1993.</p>
+<p>Handout 26: Paper: Butler Lampson. "Reliable messages and connection establishment," in S. Mullender, ed.&nbsp;<em>Distributed Systems</em>, Addison-Wesley, 1993, pp. 251-281.</p>
+<p>Handout 28: Availability and Replication (<a href="1/28.pdf">PDF</a>)</p>
+<p>Handout 29: Paper: Jim Gray and Andreas Reuter. "Fault tolerance," in&nbsp;<em>Transaction Processing: Concepts and Techniques</em>, Morgan Kaufmann, 1993, pp. 93-156.</p>
+<p>Handout 30: Concurrent Caching (<a href="1/30.pdf">PDF</a>)</p>
+<p>Handout 31: Computer Security in the Real World (<a href="1/31security.pdf">PDF</a>)</p>
+</br>
+
