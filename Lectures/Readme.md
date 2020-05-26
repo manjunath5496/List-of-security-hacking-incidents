@@ -2207,3 +2207,35 @@
 </tbody>
 </table>
 </br>
+
+<table>
+<thead>
+<tr>
+<th>ASSIGNMENTS</th>
+<th>USEFUL&nbsp;FILES</th>
+<th>FAQ</th>
+<th>SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="2/ps1.pdf">PDF</a>)</td>
+<td>20001206.byte.summary.gz&nbsp;(<a href="2/20001206_byte_summary.gz">GZ</a>) (The GZ file contains: 20001206.byte.summary.gz)<br /><a href="2/cisco_dump.010925">cisco_dump.010925</a><br />mit.bgp.20020909.gz&nbsp;(<a href="2/mit_bgp_20020909.gz">GZ</a>) (The&nbsp;GZ file contains: mitbgp20020909.gz)<br />route-views.bgp.20020903.gz&nbsp;(<a href="2/route_views_bgp_20020903.gz">GZ - 7.8 MB</a>) (The&nbsp;GZ file contains: routeviewsbgp20020903.gz)</td>
+<td>(<a href="2/faq.pdf">PDF</a>)</td>
+<td><span class="nobr">(<a href="2/ps1sols.pdf">PDF - 1.2 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="2/ps2.pdf">PDF</a>)</td>
+<td>AQM.tcl (<a href="2/AQM.tcl">TCL</a>)<br />cwnd1.awk (<a href="2/cwnd1.awk">AWK</a>)<br />dtq.awk (<a href="2/dtq.awk">AWK</a>)<br />LFN.tcl (<a href="2/LFN.tcl">TCL</a>)<br />loss.awk (<a href="2/loss.awk">AWK</a>)<br />redq.awk (<a href="2/redq.awk">AWK</a>)<br />tput.awk (<a href="2/tput.awk">AWK</a>)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="2/ps3.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
