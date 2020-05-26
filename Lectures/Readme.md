@@ -3370,3 +3370,54 @@
 </table>
 
 </br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+<th scope="col">SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem set 1 (<a href="3/hw1.pdf">PDF</a>)</td>
+<td>
+<p>Section A (<a href="3/hw1a_soln.pdf">PDF</a>)</p>
+<p>Section B (<a href="3/hw1b_soln.pdf">PDF</a>)</p>
+<p>perceptron_test.m (<a href="3/perceptron_test.m">M</a>)</p>
+<p>perceptron_train.m (<a href="3/perceptron_train.m">M</a>)</p>
+</td>
+<td>
+<p>Errata (<a href="3/hw1errata.txt">TXT</a>)</p>
+<p>p1.zip (<a href="3/p1.zip">ZIP</a>) (The ZIP file contains: 3 .m files and 4 .dat files.)</p>
+<p>p3.zip (<a href="3/p3.zip">ZIP - 8.5 MB</a>) (The ZIP file contains: 3 .svm files.)</p>
+<p>strimage.m (<a href="3/strimage.m">M</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="3/hw2.pdf">PDF</a>)</td>
+<td>(<a href="3/hw2_soln.pdf">PDF</a>)</td>
+<td>Errata (<a href="3/hw2errata.txt">TXT</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3 (<a href="3/hw3.pdf">PDF</a>)</td>
+<td>(<a href="3/hw3_soln.pdf">PDF</a>)</td>
+<td>Errata (<a href="3/hw3errata.txt">TXT</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="3/hw4.pdf">PDF</a>)</td>
+<td>(<a href="3/hw4_soln.pdf">PDF</a>)</td>
+<td>Errata (<a href="3/hw4errata.txt">TXT</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 5 (<a href="3/hw5.pdf">PDF</a>)</td>
+<td>(<a href="3/hw5_soln.pdf">PDF</a>)</td>
+<td>
+<p>Errata (<a href="3/hw5errata.txt">TXT</a>)</p>
+<p>Prob1 data (<a href="3/prob1_data.zip">ZIP</a>) (The ZIP file contains: 12 .m files,&nbsp;1 .de file.)</p>
+<p>Prob2 data (<a href="3/prob2_data.zip">ZIP</a>) (The ZIP file contains: 10 .m files and 2 .dat files.)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
