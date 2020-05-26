@@ -3257,3 +3257,29 @@
 </tbody>
 </table>
 </br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SAMPLE&nbsp;SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT6_890F14_ps1.pdf">Problem Set 1 (PDF)</a></td>
+<td><a href="MIT6_890F14_ps1-solutions.pdf">Problem Set 1 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_890F14_ps2.pdf">Problem Set 2 (PDF)</a></td>
+<td><a href="MIT6_890F14_ps2-solutions.pdf">Problem Set 2 Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_890F14_ps3.pdf">Problem Set 3 (PDF)</a></td>
+<td><a href="MIT6_890F14_ps3-solutions.pdf">Problem Set 3 Solutions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_890F14_ps4.pdf">Problem Set 4 (PDF)</a></td>
+<td><a href="MIT6_890F14_ps4-solutions.pdf">Problem Set 4 Solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
