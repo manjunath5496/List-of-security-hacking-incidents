@@ -1083,6 +1083,53 @@
 </table>
 </br>
 
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">PROBLEM&nbsp;SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Sequence Search, Global Alignment, BLAST Statistics</td>
+<td><a href="MIT7_91JS14_Pset1_Ques.pdf">Problem Set 1 (PDF)</a></td>
+<td><a href="MIT7_91JS14_Pset1_ans.pdf">Solutions to Problem Set 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>BWT, Library Complexity, RNA-seq, Genome Assembly, Motifs, Multiple Hypothesis Testing</td>
+<td>
+<p><a href="MIT7_91JS14_pset2_ques.pdf">Problem Set 2 (PDF)</a></p>
+<p><a href="pset_2_coding_portion.zip">Problem Set 2 Files (ZIP)</a>&nbsp;(This ZIP file contains: 4 .py files, 1 .index file, and .3 txt files)</p>
+</td>
+<td><a href="MIT7_91JS14_pset2_ans.pdf">Solutions to Problem Set 2&nbsp;(PDF - 1.4MB)</a></td>
+</tr>
+<tr class="row">
+<td>Gibbs Sampler, RNA Secondary Structure, Protein Structure with PyRosetta, Connections</td>
+<td>
+<p><a href="MIT7_91JS14_pset3_ques.pdf">Problem Set 3 (PDF)</a></p>
+<p><a href="Problem_set_3.zip">Problem Set 3 Files (ZIP)</a>&nbsp;(This ZIP file contains: 3 .py files, 3 .fa files, and .1 txt file)</p>
+</td>
+<td><a href="MIT7_91JS14_pset3_ans.pdf">Solutions to Problem Set 3 (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Bayesian Networks, Refining Protein Structures in PyRosetta, Mutual Information of Protein Residues</td>
+<td>
+<p><a href="MIT7_91JS14_pset4_ques.pdf">Problem Set 4 (PDF)</a></p>
+<p><a href="Problem_set_4.zip">Problem Set 4 Files (ZIP)</a>&nbsp;(This ZIP file contains: 3 .py files and 2 .fasta files)</p>
+</td>
+<td><a href="MIT7_91JS14_pset4_ans.pdf">Solutions to Problem Set 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Network Statistics, Chromatin Structure, Heritability, Association Testing</td>
+<td>
+<p><a href="MIT7_91JS14_pset5_ques.pdf">Problem Set 5 (PDF - 1.1MB)</a></p>
+</td>
+<td><a href="MIT7_91JS14_pset5_ans.pdf">Solutions to Problem Set 5 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
