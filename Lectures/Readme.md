@@ -19,7 +19,7 @@
 <li><a href="#course18">Multithreaded Parallelism: Languages and Compilers</a></li>
 <li><a href="#course19">Operating System Engineering</a></li>
 <li><a href="#course20">Computer Networks</a></li>
-<li><a href="#course21">Building Programming Experience: A Lead-In to 6.001</a></li>
+<li><a href="#course21">Underactuated Robotics</a></li>
 <li><a href="#course22">Introduction to Programming in Java</a></li>
 <li><a href="#course23">Java Preparation for 6.170</a></li>
 <li><a href="#course24">Introduction to C++</a></li>
@@ -2234,6 +2234,89 @@
 <td>Problem Set 3 (<a href="2/ps3.pdf">PDF</a>)</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course21">Underactuated Robotics</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">PROBLEM&nbsp;SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Definition of underactuated</p>
+<p>The simple pendulum</p>
+<p>Optimal control of the double integrator</p>
+</td>
+<td>
+<p>(<a href="2/MIT6_832s09_pset01.pdf">PDF</a>)</p>
+<p>calc_basin.m (<a href="2/calc_basin.m">M</a>)</p>
+<p>brick_control.m (<a href="2/brick_control.m">M</a>)</p>
+</td>
+<td>(<a href="2/MIT6_832s09_sol_pset01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Value iteration on the double integrator</p>
+<p>Pontryagin minimum principle</p>
+<p>Swing-up and balance for the cart-pole system</p>
+</td>
+<td>
+<p>(<a href="2/MIT6_832s09_pset02.pdf">PDF</a>)</p>
+<p>brick_vi.m (<a href="2/brick_vi.m">M</a>)</p>
+<p>cartpole.m (<a href="2/cartpole.m">M</a>)</p>
+</td>
+<td>
+<p>Problem 1: brick_vi_sol.m (<a href="2/brick_vi_sol.m">M</a>)</p>
+<p>Problem 2 (<a href="2/MIT6_832s09_sol_pset02.pdf">PDF</a>)</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Optimal swing-up for the simple pendulum</p>
+<p>Single-pump swing-up for the cart-pole</p>
+<p>The rimless wheel</p>
+</td>
+<td>
+<p>(<a href="2/MIT6_832s09_pset03.pdf">PDF</a>)</p>
+<p>pend_snopt.m (<a href="2/pend_snopt.m">M</a>)</p>
+<p>pendfun.m (<a href="2/pendfun.m">M</a>)</p>
+</td>
+<td>
+<p>&nbsp;</p>
+<p>Problem 3: rimlessWheel.m (<a href="2/rimlessWheel.m">M</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>The spring loaded inverted pendulum</p>
+<p>Motion planning with rapidly-exploring random trees</p>
+</td>
+<td>
+<p>(<a href="2/MIT6_832s09_pset04.pdf">PDF</a>)</p>
+<p>slip.m (<a href="2/slip.m">M</a>)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>The weight-perturbation algorithm</p>
+<p>Temporal difference learning</p>
+</td>
+<td>
+<p>(<a href="2/MIT6_832s09_pset05.pdf">PDF</a>)</p>
+<p>cartpole_wp.m (<a href="2/cartpole_wp.m">M</a>)</p>
+<p>markov_td.m (<a href="2/markov_td.m">M</a>)</p>
+</td>
 <td>&nbsp;</td>
 </tr>
 </tbody>
