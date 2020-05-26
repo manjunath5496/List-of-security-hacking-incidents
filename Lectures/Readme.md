@@ -16,7 +16,7 @@
 <li><a href="#course15">Distributed Computer Systems Engineering</a></li>
 <li><a href="#course16">Techniques in Artificial Intelligence (SMA 5504)</a></li>
 <li><a href="#course17">Principles of Computer Systems</a></li>
-<li><a href="#course18">Great Ideas in Theoretical Computer Science</a></li>
+<li><a href="#course18">Multithreaded Parallelism: Languages and Compilers</a></li>
 <li><a href="#course19">Practical Programming in C</a></li>
 <li><a href="#course20">Introduction to C Memory Management and C++ Object-Oriented Programming</a></li>
 <li><a href="#course21">Building Programming Experience: A Lead-In to 6.001</a></li>
@@ -1870,3 +1870,110 @@
 </tbody>
 </table>
 </br>
+<h2 id="course18">Multithreaded Parallelism: Languages and Compilers</h2>
+
+<table class="tablewidth75">
+<thead>
+<tr>
+<th>TOPICS</th>
+<th>FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Expressing Parallel Computation</td>
+<td>(<a href="L01Introduction.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Implicitly Parallel Programming in pH: Functions and Types</td>
+<td>(<a href="L02pH_FunctionalPrint.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>A ג - calculus: A Basis for Functional Languages</td>
+<td>(<a href="L03LambdaCalculusPrint.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>A ג - calculus with Constants and Let - blocks</td>
+<td>(<a href="L04LambdaLetPrint.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>A ג - calculus with Let - blocks (continued)</td>
+<td>(<a href="L05LambdaLet2Print.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Hindley-Milner Type System</td>
+<td>(<a href="L06HindleyMilnerPrint.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Hindley-Milner Type System (Continued)</td>
+<td>(<a href="L07HindleyMilner2Print.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Lists and Algebraic Types</td>
+<td>(<a href="L08ListsPrint.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Desugaring List Comprehensions and Pattern Matching</td>
+<td>(<a href="L09Lists2Print.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Programming with Arrays</td>
+<td>(<a href="L10pH_ArraysPrint.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>I- Structures and Open Lists</td>
+<td>(<a href="L11IstructuresPrint.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>M- Structures: Programming with State and Nondeterminism</td>
+<td>(<a href="L11IstructuresPrint.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>M- Structures Continued</td>
+<td>(<a href="L13Mstructures2Print.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>&lambda;S: A Lambda Calculus with Side - effects</td>
+<td>(<a href="L14LambdaSide.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Using Monads for Input and Output</td>
+<td>(<a href="L15MonadsIO.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Using Monads to Structure Computation</td>
+<td>(<a href="L16MonadComputation.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Bluespec - 1: A language for hardware design, simulation and synthesis</td>
+<td>(<a href="L17Bluespec1Print.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Bluespec - 2: Bluespec Compilation Model &amp; Introduction to programming</td>
+<td>(<a href="L18Bluespec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Bluespec - 3: The IP Lookup Problem</td>
+<td>(<a href="L19Bluespec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Bluespec - 4: Modules and Type Classes</td>
+<td>(<a href="L20Bluespec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Bluespec - 5: Programming Examples</td>
+<td>(<a href="L21Bluespec5Print.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Term Rewriting Systems</td>
+<td>(<a href="L22TRSPrint.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Confluence of the ג - calculus</td>
+<td>(<a href="L23ConfluencePrint.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
