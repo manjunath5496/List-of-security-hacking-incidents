@@ -24,7 +24,7 @@
 <li><a href="#course23">Computer Graphics</a></li>
 <li><a href="#course24">Advanced Complexity Theory</a></li>
 <li><a href="#course25">Distributed Algorithms</a></li>
-<li><a href="#course26">Algorithms for Computational Biology</a></li>
+<li><a href="#course26">Advanced Data Structures</a></li>
 <li><a href="#course27">Laboratory in Software Engineering</a></li>
 <li><a href="#course28">Performance Engineering of Software Systems</a></li> 
  <li><a href="#course29">A Gentle Introduction to Programming Using Python</a></li> 
@@ -2670,3 +2670,261 @@
 </table>
 
 </br>
+<h2 id="course26">Advanced Data Structures</h2>
+
+
+
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">STUDENT&nbsp;NOTES</th>
+<th scope="col">PROFESSOR'S&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p><strong>Temporal:</strong>&nbsp;Class overview, pointer machine, partial persistence, full persistence, confluent persistence, functional</p>
+<p><a href="2/MIT6_851S12_Lecture1.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L1.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><span class="nobr"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec1.pdf">Professor's Notes (PDF - 6.1MB)</a></span></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>Temporal:&nbsp;</strong>Partial retroactivity, full retroactivity, nonoblivious retroactivity</p>
+<p><a href="2/MIT6_851S12_Lecture2.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L2.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec2.pdf">Professor's Notes (PDF - 5.9MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><strong>Geometric:</strong>&nbsp;Point location via persistence, dynamic via retroactive; orthogonal range queries, range trees, layered range trees, dynamizing augmentation via weight balance, fractional cascading</p>
+<p><a href="2/MIT6_851S12_Lecture3.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L3.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec3.pdf">Professor's Notes (PDF - 6.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>Geometric:</strong><em>&nbsp;O</em>(log<em>&nbsp;n</em>) 3D orthogonal range searching via fractional cascading; kinetic data structures</p>
+<p><a href="2/MIT6_851S12_Lecture4.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L4.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec4.pdf">Professor's Notes (PDF - 6.1MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><strong>Dynamic optimality:</strong>&nbsp;Binary search trees, analytic bounds, splay trees, geometric view, greedy algorithm</p>
+<p><a href="2/MIT6_851S12_Lecture5.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L5.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><span class="nobr"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec5.pdf">Professor's Notes (PDF - 6.5MB)</a></span></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>Dynamic optimality:</strong>&nbsp;Independent rectangle, wilber, and signed greedy lower bounds; key-independent optimality;&nbsp;<em>O</em>(lg lg&nbsp;<em>n</em>)-competitive tango trees</p>
+<p><a href="2/MIT6_851S12_Lecture6.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L6.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec6.pdf">Professor's Notes (PDF - 5.7MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><strong>Memory hierarchy:</strong>&nbsp;Models, cache-oblivious B-trees</p>
+<p><a href="2/MIT6_851S12_Lecture7.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L7.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec7.pdf">Professor's Notes (PDF - 7.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>Memory hierarchy:</strong>&nbsp;Ordered-file maintenance, list labeling, order queries, cache-oblivious priority queues</p>
+<p><a href="2/MIT6_851S12_Lecture8.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L8.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec8.pdf">Professor's Notes (PDF - 5.5MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><strong>Memory hierarchy:</strong>&nbsp;Distribution sweeping via lazy funnelsort; cache-oblivious orthogonal 2D range searching: batched and online</p>
+<p><a href="2/MIT6_851S12_Lecture9.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L9.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec9.pdf">Professor's Notes (PDF - 6.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>Dictionaries:</strong>&nbsp;Universal,<em>&nbsp;k</em>-wise independent, simple tabulation hashing; chaining, dynamic perfect hashing, linear probing, cuckoo hashing</p>
+<p><a href="2/MIT6_851S12_Lecture10.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L10.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec10.pdf">Professor's Notes (PDF - 6.0MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><strong>Integer:</strong>&nbsp;Models, predecessor problem, van Emde Boas, x-fast and y-fast trees, indirection</p>
+<p><a href="2/MIT6_851S12_Lecture11.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L11.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec11.pdf">Professor's Notes (PDF - 5.7MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>Integer:</strong>&nbsp;Fusion trees: sketching, parallel comparison, most significant set bit</p>
+<p><a href="2/MIT6_851S12_Lecture12.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L12.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec12.pdf">Professor's Notes (PDF - 5.6MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><strong>Integer:</strong>&nbsp;Predecessor lower bound via round elimination</p>
+<p><a href="2/MIT6_851S12_Lecture13.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L13.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec13.pdf">Professor's Notes (PDF - 5.8MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>Integer:</strong>&nbsp;Sorting in linear time for&nbsp;<em>w</em>&nbsp;=<em>&nbsp;O</em>(lg<sup>2+&epsilon;</sup>&nbsp;n), priority queues</p>
+<p><a href="2/MIT6_851S12_Lecture14.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L14.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec14.pdf">Professor's Notes (PDF - 5.8MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><strong>Static trees:</strong>&nbsp;Least common ancestor, range minimum queries, level ancestor</p>
+<p><a href="2/MIT6_851S12_Lecture15.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L15.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec15.pdf">Professor's Notes (PDF - 5.8MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>Strings:</strong>&nbsp;Suffix tree, suffix array, linear-time construction for large alphabets, suffix tray, document retrieval</p>
+<p><a href="2/MIT6_851S12_Lecture16.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L16.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec16.pdf">Professor's Notes (PDF- 6.8MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><strong>Succinct:</strong>&nbsp;Rank, select, tries</p>
+<p><a href="2/MIT6_851S12_Lecture17.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td><a href="2/MIT6_851S12_L17.pdf">Student Notes (PDF)</a>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec17.pdf">Professor's Notes (PDF - 5.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>Succinct:</strong>&nbsp;Compact suffix arrays and trees</p>
+<p><a href="2/MIT6_851S12_Lecture18.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L18.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec18.pdf">Professor's Notes (PDF - 6.2MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><strong>Dynamic graphs:</strong>&nbsp;Link-cut trees, heavy-light decomposition</p>
+<p><a href="2/MIT6_851S12_Lecture19.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L19.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec19.pdf">Professor's Notes (PDF - 5.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>Dynamic graphs:</strong>&nbsp;Euler tour trees, decremental connectivity in trees in&nbsp;<em>O</em>(1), fully dynamic connectivity in&nbsp;<em>O</em>(lg<sup>2</sup><em>&nbsp;n</em>), survey</p>
+<p><a href="2/MIT6_851S12_Lecture20.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L20.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec20.pdf">Professor's Notes (PDF - 7.4MB)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p><strong>Dynamic graphs:</strong>&nbsp;&Omega;(lg&nbsp;<em>n</em>) lower bound for dynamic connectivity</p>
+<p><a href="2/MIT6_851S12_Lecture21.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>
+<p><a href="2/MIT6_851S12_L21.pdf">Student Notes (PDF)</a></p>
+<p>(Courtesy of MIT students. Used with permission.)</p>
+</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT6_851S12_Lec21.pdf">Professor's Notes (PDF - 4.6MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>History of memory models:</strong>&nbsp;Idealized 2-level, red-blue pebble game, external memory, HMM, BT, (U)MH, cache oblivious&nbsp;<strong>[bonus lecture]</strong></p>
+<p><a href="2/MIT6_851S12_Lecture22.pdf">Detailed Description (PDF)</a></p>
+</td>
+<td>Note: No student notes for this session.</td>
+<td>
+<p><a href="2/MIT6_851S12_Lec22.pdf">Professor's Notes (PDF - 5.9MB)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
