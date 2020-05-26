@@ -72,5 +72,22 @@
 </table>
 
 </br>
-
+<table class="tablewidth50">
+<thead>
+<tr>
+<th>EXAM</th>
+<th>SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT14_15JS18_exam.pdf">Midterm (PDF)</a></td>
+<td><a href="MIT14_15JS18_examsol.pdf">Midterm Solutions (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT14_15JS18_practice.pdf">Final Exam Practice Problems (PDF)</a></td>
+<td><a href="MIT14_15JS18_practicesol.pdf">Final Exam Practice Solutions (PDF)</a></td>
+</tr>
+</tbody>
+</table>
 
