@@ -3,7 +3,7 @@
 <li><a href="#course2">Introduction to Mathematical Programming</a></li>
 <li><a href="#course3">Nonlinear Programming</a></li>
 <li><a href="#course4">Game Theory with Engineering Applications</a></li>
-<li><a href="#course5">Software Construction</a></li>
+<li><a href="#course5">Algorithms for Inference</a></li>
 <li><a href="#course6">Elements of Software Construction</a></li>
 <li><a href="#course7">Introduction to Computer Science and Programming in Python</a></li>
 <li><a href="#course8">Introduction to Computer Science and Programming</a></li>
@@ -369,4 +369,87 @@
 </tbody>
 </table>
 </br>
+<h2 id="course5">Algorithms for Inference</h2>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;TOPICS&nbsp;AND&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p><a href="MIT6_438F14_Lec1.pdf">Course Overview (PDF)</a></p>
+<p><a href="MIT6_438F14_Preliminaries.pdf">Preliminaries (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_438F14_Lec2.pdf">Directed Graphical Models (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_438F14_Lec3.pdf">Undirected Graphical Models (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_438F14_Lec4.pdf">Factor Graphs and Comparing Graphical Model Types (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_438F14_Lec5.pdf">Minimal I-Maps, Chordal Graphs, Trees, and Markov Chains (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_438F14_Lec6.pdf">Gaussian Graphical Models (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_438F14_Lec7.pdf">Inference On Graphs: The Elimination Algorithm (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_438F14_Lec8.pdf">Inference On Trees: Sum-Product Algorithm (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_438F14_Lec9.pdf">Forward-Backward Algorithm, Sum-Product On Factor Graphs (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_438F14_Lec10.pdf">Sum-Product On Factor Graphs, MAP Elimination (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_438F14_Lec11.pdf">The Max-Product Algorithm (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_438F14_Lec12.pdf">Gaussian Belief Propagation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_438F14_Lec13.pdf">BP on Gaussian Hidden Markov Models: Kalman Filtering (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_438F14_Lec14.pdf">The Junction Tree Algorithm (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_438F14_Lec15-16.pdf">Loopy Belief Propagation and its Properties (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_438F14_Lec17.pdf">Variational Inference (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_438F14_Lec18.pdf">Markov Chain Monte Carlo Methods and Approximate MAP (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_438F14_Lec19.pdf">Approximate Inference: Importance Sampling and Particle Filters (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_438F14_Lec20.pdf">Learning Graphical Models (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_438F14_Lec21.pdf">Learning Parameters of an Undirected Graphical Model (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_438F14_Lec22.pdf">Parameter Estimation from Partial Observations (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT6_438F14_Lec23.pdf">Learning Structure in Directed Graphs (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT6_438F14_Lec24.pdf">Learning Exponential Family Models (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
