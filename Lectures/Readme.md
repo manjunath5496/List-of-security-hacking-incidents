@@ -20,7 +20,7 @@
 <li><a href="#course19">Operating System Engineering</a></li>
 <li><a href="#course20">Computer Networks</a></li>
 <li><a href="#course21">Underactuated Robotics</a></li>
-<li><a href="#course22">Introduction to Programming in Java</a></li>
+<li><a href="#course22">Cognitive Robotics</a></li>
 <li><a href="#course23">Java Preparation for 6.170</a></li>
 <li><a href="#course24">Introduction to C++</a></li>
 <li><a href="#course25">Software Studio</a></li>
@@ -2322,3 +2322,87 @@
 </tbody>
 </table>
 </br>
+<h2 id="course22">Cognitive Robotics</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><strong>Module 1: Programs that Monitor State</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT16_412JS16_L1.pdf">Robustness Through Model-based Programming (PDF - 3.5MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT16_412JS16_L2.pdf">Programs That Monitor Hidden State (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>Module 2: Program with Time</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT16_412JS16_L4.pdf">Programs with Flexible Time and Choice (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Module 3: Programs with Goal States</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT16_412JS16_L5.pdf">Programs on State and Planning as Heuristic Forward Search (PDF - 3.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT16_412JS16_L6.pdf">Planning with Temporal Land Marks (PDF - 1.2MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT16_412JS16_L7.pdf">Planning with Casual Graphs (PDF - 1.7MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT16_412JS16_L8.pdf">Time-line Planning Using Casual Graphs (PDF - 2.4MB)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Module 5: Programs that Collaborate</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT16_412JS16_L11.pdf">Multi-agent Planning (PDF - 1.3MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT16_412JS16_L13.pdf">Programs that Execute with Humans (PDF - 3.3MB)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Module 6:&nbsp;Advanced Lectures</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT16_412JS16_L14.pdf">Advanced Lecture 1: Incremental Path Planning (PDF - 3.0MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT16_412JS16_L15.pdf">Advanced Lecture 2: Semantic Localization (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT16_412JS16_L16.pdf">Advanced Lecture 3: Image Classification via Deep Learning (PDF - 4.2MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT16_412JS16_L17.pdf">Advanced Lecture 4: Monte Carlo Tree Search (PDF - 2.0MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT16_412JS16_L18.pdf"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." />Advanced Lecture 5: Reachability (PDF - 5.5MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT16_412JS16_L19.pdf">Advanced Lecture 6: Planning with Temporal Logic (PDF - 1.4MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT16_412JS16_L20.pdf"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." />Advanced Lecture 7: Probabilistic and Infinite Horizon Planning (PDF - 4.1MB)</a></td>
+</tr>
+<tr class="row">
+<td><strong>Module 7: Risk-bounded Programming</strong></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT16_412JS16_L22.pdf">Risk-bounded Programming on Continuous State I (PDF - 3.6MB)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
