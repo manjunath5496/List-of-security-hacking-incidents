@@ -26,7 +26,7 @@
 <li><a href="#course25">Distributed Algorithms</a></li>
 <li><a href="#course26">Advanced Data Structures</a></li>
 <li><a href="#course27">Geometric Folding Algorithms: Linkages, Origami, Polyhedra</a></li>
-<li><a href="#course28">Performance Engineering of Software Systems</a></li> 
+<li><a href="#course28">Essential Coding Theory</a></li> 
  <li><a href="#course29">A Gentle Introduction to Programming Using Python</a></li> 
 </ul>
 <p>&nbsp;</p>
@@ -3011,4 +3011,146 @@
 </tbody>
 </table>
 </br>
+<h2 id="course28">Essential Coding Theory</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">SCRIBE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">
+<p><em>Lecture 1</em>&nbsp;(<a href="2/lect01slx4.pdf">PDF</a>)</p>
+<p>Introduction</p>
+<p>Hamming Space, Distance, Code</p>
+<p>Applications</p>
+</td>
+<td headers="col3">Piotr Mitros (<a href="2/lect01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">
+<p><em>Lecture 2</em>&nbsp;(<a href="2/lect02slx4.pdf">PDF</a>)</p>
+<p>Shannon's Theory of Information</p>
+<p>The Coding Theorem</p>
+<p>Its Converse</p>
+</td>
+<td headers="col3">Joungkeun Lim (<a href="2/lect02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">
+<p><em>Lecture 3</em>&nbsp;(<a href="2/lect03slx4pdf.pdf">PDF</a>)</p>
+<p>Shannon Theory vs. Hamming Theory</p>
+<p>Our Goals</p>
+<p>Tools</p>
+<p>Linear Codes</p>
+</td>
+<td headers="col3">Adi Akavia (<a href="2/lect03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">
+<p><em>Lecture 4</em>&nbsp;(<a href="2/lect04slx4.pdf">PDF</a>)</p>
+<p>Asymptotically Good Codes</p>
+<p>Projection and Volume Bound</p>
+<p>Random Codes</p>
+</td>
+<td headers="col3">Victor Chen (<a href="2/lect04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">
+<p><em>Lecture 5</em>&nbsp;(<a href="2/lect05slx4.pdf">PDF</a>)</p>
+<p>Algebraic Codes: Reed-Solomon, Reed-Muller, Hadamard</p>
+<p>Plotkin Bound</p>
+</td>
+<td headers="col3">Swastik Kopparty (<a href="2/lect05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Decoding Reed-Solomon Codes - The Welch-Berlekamp Algorithm</td>
+<td headers="col3">Kyomin Jung (<a href="2/lect06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">
+<p>Abstracting the RS Decoding Algorithm</p>
+<p>Beyond Unique Decoding</p>
+</td>
+<td headers="col3">Kunal Agrawal (<a href="2/lect07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">List Decoding of Reed-Solomon Codes</td>
+<td headers="col3">Anindya Patthak (<a href="2/lect08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">
+<p>Concatenated Codes and Decoding</p>
+<p>Justesen Codes</p>
+</td>
+<td headers="col3">Jesse Kamp (<a href="2/lect09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Achieving Shannon Capacity in Polytime with Concatenated Codes</td>
+<td headers="col3">Elena Grigorescu (<a href="2/lect10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">List Decoding versus Rate versus Distance</td>
+<td headers="col3">Anastasios Sidiropoulos (<a href="2/lect11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Gap between Constructive and Existential Results in Coding Theory</td>
+<td headers="col3">Kevin Matulef (<a href="2/lect12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Algebraic Geometry Codes</td>
+<td headers="col3">Alexey Spiridonov (<a href="2/lect13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Linear-time Decodable Codes</td>
+<td headers="col3">Vinod Vaikuntanathan (<a href="2/lect14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Linear-time Encodable and Decodable Codes</td>
+<td headers="col3">Reina Riemann (<a href="2/lect15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">
+<p>Spielman Codes and Decoding</p>
+<p>Correcting Random Error in Linear Time, Expander Codes (Type II)</p>
+</td>
+<td headers="col3">Abhinav Kumar (<a href="2/lect16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Expander Codes - the ABNNR Construction</td>
+<td headers="col3">Venkat Chandar (<a href="2/lect17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Computation and Randomness: Pseudo-randomness, Limited Independence, Small-bias Spaces</td>
+<td headers="col3">Kyomin Jung (<a href="2/lect18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Extraction of Randomness, Min-entropy, Statistical Difference, Extractors and Codes</td>
+<td headers="col3">Anup Rao (<a href="2/lect19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Trevisan's Extractor</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Ta-Shma-Zuckerman-Safra Extractor, Guruswami-codes</td>
+<td headers="col3">Paul Valiant (<a href="2/lect21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Ta-Shma-Zuckerman-Safra Extractor (cont.)</td>
+<td headers="col3">Swastik Kopparty (<a href="2/lect22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Expanders, Eigenvalues and the Zig-Zag Product</td>
+<td headers="col3">Victor Chen (<a href="2/lect23.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
 
