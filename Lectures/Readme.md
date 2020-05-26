@@ -5,7 +5,7 @@
 <li><a href="#course4">Game Theory with Engineering Applications</a></li>
 <li><a href="#course5">Algorithms for Inference</a></li>
 <li><a href="#course6">Information Theory</a></li>
-<li><a href="#course7">Introduction to Computer Science and Programming in Python</a></li>
+<li><a href="#course7">Foundations of Algorithms and Computational Techniques in Systems Biology</a></li>
 <li><a href="#course8">Introduction to Computer Science and Programming</a></li>
 <li><a href="#course9">Introduction to Algorithms</a></li>
 <li><a href="#course10">Artificial Intelligence</a></li>
@@ -761,3 +761,110 @@
 </table>
 
 </br>
+<h2 id="course7">Foundations of Algorithms and Computational Techniques in Systems Biology</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Protein Modeling</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Introduction and Protein Modeling Questions (<a href="l01.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Models of Proteins (<a href="l02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Discrete Conformational Search (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l03.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Binding and Docking (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Molecular Dynamics Simulation (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Molecular Dynamics and Electrostatics (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l06.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Continuum Electrostatic Modeling I (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l07.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Continuum Electrostatic Modeling II (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l08.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Electrostatic Optimization and Design (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l09.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Electrostatics Modeling (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l10.pdf">PDF 1</a>) (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l10b.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Statistical Mechanics (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Network Modeling</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Statistical Mechanics (cont.) (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Formulating and Simulating Network Models in Biology (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Formulating Models (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Nonlinear Dynamics and Stability (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Steady-State Problems (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Parameter Fitting and Estimation (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Parameter Estimation; Robustness, Fragility, Control (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Image Modeling</strong></td>
+</tr>
+<tr class="alt-row">
+<td>2-D and 3-D Light Microscopy; Image Reconstruction (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Deconvolution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l20.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Deconvolution II (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l21.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Blind Deconvolution (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l22.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Optical Flow (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l23.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>High-Throughput Data and its Analysis (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l24.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Inference and Statistics (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="l25.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Roundup</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Supplemental Notes</h2>
+<p>Adjoint Sensitivity Analysis for Optimization (<a href="adjoint.pdf">PDF</a>)&nbsp;</p>
+
+</br>
+
+
+
+
