@@ -972,3 +972,22 @@
 </tbody>
 </table>
 </br>
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col">EXAMS</th>
+<th id="col2" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Quiz 1 (<a href="1/quiz_one_04.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="1/2004_qz1_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Quiz&nbsp;2 (<a href="1/quiz_two_04.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="1/2004_qz2_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
