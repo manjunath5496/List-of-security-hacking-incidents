@@ -3730,3 +3730,64 @@
 </tbody>
 </table>
 </br>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SAMPLE&nbsp;SOLUTIONS</th>
+<th scope="col">SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="4/MIT6_857S14_ps1.pdf">Problem Set 1 (PDF)</a></td>
+<td>
+<p>Problem 1:&nbsp;<a href="4/MIT6_857S14_1.1.pdf">Solution (PDF)</a></p>
+<p>Problem 2:&nbsp;<a href="4/MIT6_857S14_1.2.pdf">Solution (PDF)</a></p>
+<p>Problem 3:</p>
+<ul>
+<li><a href="4/MIT6_857S14_1.3.pdf">Solution (PDF)</a></li>
+<li><a href="4/MIT6_857S14_1.3.2.pdf">Alternate&nbsp;Solution (PDF)</a></li>
+</ul>
+</td>
+<td>
+<p><a href="4/tenciphs.txt">Ciphertexts (TXT)</a></p>
+<p><a href="4/otp-feedback.py">OTP-Feedback (PY)</a></p>
+<p><a href="4/run_lengths.png">Plot of English Run Lengths (PNG)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="4/MIT6_857S14_ps2.pdf">Problem Set 2 (PDF)</a></td>
+<td>
+<p>Problem 1:&nbsp;<a href="4/MIT6_857S14_2.1.pdf">Solution (PDF)</a></p>
+<p>Problem 2:&nbsp;No Solutions</p>
+<p>Problem 3:&nbsp;<a href="4/MIT6_857S14_2.1.2.pdf">Solution (PDF)</a></p>
+</td>
+<td><a href="4/hashes.txt">Hashes (TXT)</a></td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT6_857S14_ps3.pdf">Problem Set 3 (PDF)</a></td>
+<td>
+<p>Problem 1:&nbsp;No Solutions</p>
+<p>Problem 2:&nbsp;<a href="4/MIT6_857S14_3.2.pdf">Solution (PDF)</a></p>
+<p>Problem 3:&nbsp;<a href="4/MIT6_857S14_3.3.pdf">Solution (PDF)</a></p>
+</td>
+<td>
+<p><a href="4/kalns.py">kalns (PY)</a></p>
+<p><a href="4/gf16_table.txt">GF16 Table (TXT)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="4/MIT6_857S14_ps4.pdf">Problem Set 4 (PDF)</a></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td><a href="4/MIT6_857S14_ps5.pdf">Problem Set 5 (PDF)</a></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
