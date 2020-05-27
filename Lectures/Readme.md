@@ -33,6 +33,7 @@
     <li><a href="#course32">Network and Computer Security</a></li> 
   <li><a href="#course33">Computational Models of Discourse</a></li> 
    <li><a href="#course34">Selected Topics in Cryptography</a></li> 
+    <li><a href="#course35">Program Analysis</a></li> 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Networks</h2>
@@ -3944,3 +3945,38 @@
 </table>
 
 </br>
+<h2 id="course35">Program Analysis</h2>
+
+
+<table class="tablewidth3" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROJECT TOPICS</th>
+<th scope="col">GROUP MEMBERS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Javarifier: Inferring Reference Immutability for Java&reg; (<a href="4/javarifier.pdf">PDF</a>)</td>
+<td>Matthew Tschantz, Chen Xiao, and Vineet Sinha</td>
+</tr>
+<tr class="alt-row">
+<td>Automated Test-case Generation with SAT (<a href="4/test_generation.pdf">PDF</a>)</td>
+<td>Greg Dennis and Robert Seater</td>
+</tr>
+<tr class="row">
+<td>Annotation-less Unit Type Inference for C (<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/unit_type_infere.pdf">PDF</a>)</td>
+<td>Philip Guo and Stephen McCamant</td>
+</tr>
+<tr class="alt-row">
+<td>Safe Test Case Reduction (<a href="4/test_case_anon.pdf">PDF</a>)</td>
+<td>Brad Howes and Anonymous</td>
+</tr>
+<tr class="row">
+<td>Automatic Generation of Unit Regression Tests (<a href="4/unit_regression.pdf">PDF</a>)</td>
+<td>Shay Artzi, Adam Kiezun, Carlos Pacheco, and Jeff Perkins</td>
+</tr>
+</tbody>
+</table>
+</br>
+
