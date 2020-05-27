@@ -3630,7 +3630,6 @@
 </table>
 </br>
 <h2 id="course32">Network and Computer Security</h2>
-
 <table summary="See table caption for summary.">
 <thead>
 <tr>
@@ -3662,7 +3661,7 @@
 </tr>
 <tr class="row">
 <td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec05.pdf">Hashing Applications and Constructions (PDF - 1.7MB)</a></td>
-<td>Rivest, Ronald L., and Adi Shamir.&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="http://people.csail.mit.edu/rivest/RivestShamir-mpay.pdf">"PayWord and MicroMint: Two Simple Micropayment Schemes." (PDF)</a>&nbsp;MIT Laboratory for Computer Science, 2001.</td>
+<td>Rivest, Ronald L., and Adi Shamir.&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/RivestShamir-mpay.pdf">"PayWord and MicroMint: Two Simple Micropayment Schemes." (PDF)</a>&nbsp;MIT Laboratory for Computer Science, 2001.</td>
 </tr>
 <tr class="alt-row">
 <td><a href="4/MIT6_857S14_Lec06.pdf">Bitcoin (PDF)</a></td>
@@ -3686,7 +3685,7 @@
 </tr>
 <tr class="row">
 <td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec11.pdf">Prime Finding and other "Crypto" Math (PDF - 8.1MB)</a></td>
-<td>Cao, Zhengjun.&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://eprint.iacr.org/2013/449.pdf">"A Note On the Storage Requirement for AKS Primality Testing Algorithm." (PDF)</a>&nbsp;Shanghai University.</td>
+<td>Cao, Zhengjun.&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/2013-449.pdf">"A Note On the Storage Requirement for AKS Primality Testing Algorithm." (PDF)</a>&nbsp;Shanghai University.</td>
 </tr>
 <tr class="alt-row">
 <td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec12.pdf">Diffie-Hellman Key Exchange and Crypto Groups (PDF - 7.6MB)</a></td>
@@ -3703,7 +3702,7 @@
 <td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/MIT6_857S14_Lec14.pdf">Malleability of El Gamal, IND-CCA2 (PDF - 8.1MB)</a></td>
 <td>
 <p>Diffie, Whitfield, and Martin E. Hellman. "<a href="http://dx.doi.org/10.1109/TIT.1976.1055638">New Directions in Cryptography</a>."&nbsp;<em>IEEE Transactions on Information Theory</em>&nbsp;22, no. 6 (1976): 644&ndash;54.</p>
-<p>Boneh, Dan.&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="http://www.ams.org/notices/199902/boneh.pdf">"Twenty Years of Attacks on the RSA Cryptosystem." (PDF)</a>&nbsp;<em>Notices of the AMS</em>&nbsp;42, no. 2 (1999): 203&ndash;13.</p>
+<p>Boneh, Dan.&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="4/boneh.pdf">"Twenty Years of Attacks on the RSA Cryptosystem." (PDF)</a>&nbsp;<em>Notices of the AMS</em>&nbsp;42, no. 2 (1999): 203&ndash;13.</p>
 </td>
 </tr>
 <tr class="row">
