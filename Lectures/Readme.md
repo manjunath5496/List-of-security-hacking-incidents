@@ -31,6 +31,7 @@
   <li><a href="#course30">Machine Learning</a></li>
    <li><a href="#course31">Randomized Algorithms</a></li> 
     <li><a href="#course32">Network and Computer Security</a></li> 
+  <li><a href="#course33">Computational Models of Discourse</a></li> 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Networks</h2>
@@ -3791,3 +3792,77 @@
 </tbody>
 </table>
 </br>
+<h2 id="course33">Computational Models of Discourse</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction (<a href="4/lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Topic Segmentation: Agreement, Evaluation, Automatic Text Segmentation (<a href="4/lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Topic Segmentation (cont.): Hierarchical Text Segmentation, Meeting Segmentation (<a href="4/lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Cohesion and Local Coherence: Lexical Chains, Centering Theory; Applications to Automated Essay Scoring (<a href="4/lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Automatic Reference Resolution (<a href="4/lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Automatic Reference Resolution and Reference Generation (<a href="4/lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Generation of Referring Expressions (<a href="4/lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Domain-dependent Models of Text Structure (<a href="4/lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Rhetorical Structure Theory (<a href="4/lec09.pdf">PDF</a>)<br />Guest Speaker: Florian Wolf</td>
+</tr>
+<tr class="alt-row">
+<td>Discourse Structure in Text Summarization; Alignment (<a href="4/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Temporal Ordering in Discourse (<a href="4/lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Intentions and the Structure of Discourse (<a href="4/lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Studies of Dialogues; Taxonomy of Speech Acts (<a href="4/lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Automatic Interpretation of Dialogue Acts (<a href="4/lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Learning Dialogue Strategies via Reinforcement Learning (<a href="4/lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>MIT Dialogue Systems (<a href="4/lec17.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Dialogue Systems (<a href="4/lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Plan Recognition (<a href="4/lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Evaluation for Discourse Processing (<a href="4/lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Discourse in Psycholinguistics (<a href="4/lec21.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
